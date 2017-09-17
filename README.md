@@ -326,7 +326,7 @@ msconfig
 
 %appdata%
 
-Ph?i tinh ch?nh bang tay 1 chút là b? hi?u ?ng trong Advance System Settings. B? h?t t?t c? ch? gi? l?i Enable Peek, Show thumnails instead of icons và Smooth edges of screen fonts. Vào msconfig ch?n Boot > ch?n No GUI boot, ch?n Advance options, ch?n Number of proccessors và ch?n max s? CPU.
+Phải tinh chỉnh bang tay 1 chút là bỏ hiệu ứng trong Advance System Settings. Bỏ hết tất cả chỉ giữ lại Enable Peek, Show thumnails instead of icons và Smooth edges of screen fonts. Vào msconfig chọn Boot > chọn No GUI boot, chọn Advance options, chọn Number of proccessors và chọn max số CPU.
 
 https://www.quora.com/How-do-I-turn-off-windows-auto-update-in-Windows-8-1
 
@@ -426,11 +426,11 @@ http://jht.pixnet.net/blog
 
 https://vi-vn.facebook.com/ThaiTriHang/
 
-http://tieba.baidu.com/f?kw=?????
+http://tieba.baidu.com/f?kw=凯尔特女人
 
-http://tieba.baidu.com/f?kw=??
+http://tieba.baidu.com/f?kw=高露
 
-http://tieba.baidu.com/f?kw=??
+http://tieba.baidu.com/f?kw=戚薇
 
 https://www.facebook.com/StephyQiWeiVN/
 
@@ -446,7 +446,7 @@ http://sachxua.net/forum/index.php?topic=16946.0
 
 # < Check Laptop >
 
-https://www.facebook.com/notes/laptop-huy-hoang/thông-tin-hu?ng-d?n-ch?n-máy-phù-h?p-hu?ng-d?n-mua-hàng-ki?m-tra-th?i-gian-b?o-h/381916295281674
+https://www.facebook.com/notes/laptop-huy-hoang/thông-tin-hướng-dẫn-chọn-máy-phù-hợp-hướng-dẫn-mua-hàng-kiểm-tra-thời-gian-bảo-h/381916295281674
 
 https://getsupport.apple.com/ProductSelector.action
 
