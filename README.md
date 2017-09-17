@@ -374,7 +374,7 @@ http://sharecodeweb.net/huong-dan-khac-phuc-khong-download-duoc-tren-app-box-com
 
 http://chongvirusmaytinh.blogspot.com/2011/05/tat-autoplay-cua-windows-bang-trinh.html
 
-itt.edu.vn/threads/28348-huong-dan-cai-full-driver-cho-windows-8.html
+http://itt.edu.vn/threads/28348-huong-dan-cai-full-driver-cho-windows-8.html
 
 http://www.sony.com.vn/support/product/sve14136cv/download
 
