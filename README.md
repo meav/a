@@ -832,7 +832,7 @@ padding: 15px !important; border-radius: 3px !important;
 
     
 
-/*  Font chá»¯ Title */    
+/*  Font chữ Title */    
 
  .r a {text-decoration:none !important; font-family: Segoe UI }
 
@@ -864,19 +864,19 @@ DIV[style="font-style:italic"], .alt2[style="border:1px inset"], LI, .bodytext {
 
 A[rel="nofollow"][href^="member.php?"] {font-size:11px} 
 
-/* Fix vá»¥ trÃ n hÃ¬nh  */
+/* Fix vụ tràn hình  */
 
 .voz-post-message img {max-width: 900px }     
 
     
 
-/* LÃ m mÃ u khung Reply */
+/* Làm màu khung Reply */
 
 .panel ,  .fieldset,  .vBulletin_editor, .button, [id$=smiliebox] {background: #E4E7F5; border:none}
 
 .button {height: 30px} .button:hover, .imagebutton * {background: #F2F2FF} 
 
-/* Banh rá»™ng khung soáº¡n tháº£o */
+/* Banh rộng khung soạn thảo */
 
 DIV[style="width:640px"], [type="text/javascript"] + TABLE, #vB_Editor_001_textarea {min-width:100% }
 
@@ -884,13 +884,13 @@ DIV[style="width:640px"], [type="text/javascript"] + TABLE, #vB_Editor_001_texta
 
 Firefox
 
-/* Cho nÃºt Reload|Stop ra káº¿ Back/Forward */
+/* Cho nút Reload|Stop ra kế Back/Forward */
 
 #urlbar-reload-button, #urlbar-stop-button { -moz-box-ordinal-group: 0; padding-top: 0px; padding-left: 10px !important}
 
 #urlbar-go-button {display:none !important}
 
-/* KÃ­ch cá»¡ Font chá»¯ trÃªn URLbar + Searchbar */
+/* Kích cỡ Font chữ trên URLbar + Searchbar */
 
 #urlbar * , #searchbar * {font-size:14px !important}
 
