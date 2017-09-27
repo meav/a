@@ -2,11 +2,13 @@
 
 https://getlinkfshare.com/
 
+https://linksvip.net/
+
 https://vnlinks.net/
 
-http://www.linkvip.info/
-
 http://ilikesub.com/get-link-chia-se-nhac
+
+http://thuthuat.taimienphi.vn/share-acc-vip-fshare-vn-vinh-vien-mien-phi-link-vip-toc-do-cao-25890n.aspx
 
 </>
 
@@ -65,6 +67,8 @@ http://www.lightnovel.cn/thread-835719-1-1.html
 http://cmder.net/
 
 clink set history_file_lines -1
+
+https://github.com/vatterspun/cubicexplorer
 
 http://www.ltr-data.se/opencode.html/#ImDisk
 
@@ -240,6 +244,14 @@ echo cookie=[COOKIE]
 
 />
 
+https://github.com/saldl/saldl
+
+C:\Users\aa\Documents\WW1\saldl-win32\saldl-win32.exe
+
+--resume --connections=10 --status-refresh-interval=1 -CC [--output-filename=FNAME] [--root-dir=FOLDER] [--referer=REFERER] [--cookie-file=CFILE] [ --inline-cookies=COOKIE] [--post=POST] [--raw-post=RAWPOST] [--user-agent=UA] [--custom-headers=HEADERS] [URL]
+
+https://github.com/axel-download-accelerator/axel
+
 https://st0rage.org/~n2j3/?page_id=225717166
 
 C:\Users\aa\Desktop\axel.exe
@@ -251,52 +263,6 @@ http://westbyte.com/ida/
 C:\Users\aa\Documents\ \WW3\IDA Portable\ida.exe
 
 [URL] [referer=REFERER] [description=COMMENT] [savepath=FOLDER] [filename=FNAME] [cookies=COOKIE] [post=POST]
-
-https://www.gnu.org/software/wget/
-
-C:\Users\aa\Desktop\wget.exe
-
--c [--referer=REFERER] [--post-data=POST] [--load-cookies=CFILE] [--header=Cookie:COOKIE] [--output-document=C:\Users\aa\Desktop\FNAME] [--input-file=UFILE] [URL]
-
-http://forum.eagleget.com/
-
-@Echo off
-
-SETLOCAL ENABLEDELAYEDEXPANSION
-
-Set A=
-
-Set B=
-
-Set C=
-
-Set D=
-
-Set E=
-
-Set F=
-
-"C:\Users\aa\Desktop\EagleGetProtable_2.0.4.20\EagleGet.exe" \S \U!A:~1,-1!U\ \R!B:~1,-1!R\ \C!C:~1,-1!C\ \H!D:~1,-1!H\ \G!E:~1,-1!G\ \P!F:~1,-1!P\
-
-http://forum.eagleget.com/viewtopic.php?id=643
-
-C:\Windows\System32\cmd.exe
-
-/C Start C:\Users\FG.cmd [URL]
-
-@Echo off
-
-SETLOCAL ENABLEDELAYEDEXPANSION
-
-Set Parm="%~1"
-
-Set CleanURL=%Parm: =%
-
-Echo !CleanURL:~1,-1!  >> "%ProgramFiles%\EagleGetProtable_2.0.4.11\FGLog.txt"
-
-"%ProgramFiles%\EagleGetProtable_2.0.4.11\EagleGet.exe" \S \U!CleanURL:~1,-1!U\
-
-Exit"
 
 http://www.internetdownloadmanager.com/download.html
 
@@ -315,6 +281,8 @@ https://www.tncnonline.com.vn/Pages/tools.aspx
 http://www.ext2fsd.com/?page_id=16
 
 http://www.print-conductor.com/download/
+
+www.xiles.net/nexusfont
 
 </>
 
@@ -614,7 +582,7 @@ Mediafire
 
   milanistavietnam@gmail.com
 
-  milanistavietnam@gmail.com
+  milanistavietnam1911@gmail.com
 
   https://www.mediafire.com/?gz5b8dz
 
