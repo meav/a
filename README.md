@@ -1,4 +1,4 @@
-https://github.com/robsonsmartins/php-projects/tree/master/issuu-pub-downloader
+https://www.google.com.vn/search?biw=1024&bih=700&q=th%E1%BA%BF+l%E1%BB%AF+tuy%E1%BB%83n+t%E1%BA%ADp+site%3Asachviet.edu.vn&oq=th%E1%BA%BF+l%E1%BB%AF+tuy%E1%BB%83n+t%E1%BA%ADp+site%3Asachviet.edu.vn
 
 # < Get link >
 
@@ -59,6 +59,12 @@ https://www.fshare.vn/file/T60H1HW3BT
 https://www.tenlua.vn/download/1737e42ee60a6503/celtic-woman-emerald-musical-gems-2013-blu-ray-1080i-avc-dts-hd-5-1-iso
 
 http://pan.baidu.com/share/link?shareid=447914139&uk=773140592&adapt=pc&fr=ftw#path=%252F
+
+https://pan.baidu.com/share/link?uk=291990452&shareid=80373415#list/path=%2F%E6%9D%A8%E9%92%B0%E8%8E%B9-%E3%80%8A1990%E5%B9%B4-2013%E5%B9%B4%E4%BD%9C%E5%93%81%E5%90%88%E9%9B%86%E3%80%8B%2826CD%29[FLAC]
+
+http://v.pipipan.com/info/YGD11143
+
+http://android.pipipan.com/info/0Ij218174
 
 http://www.lightnovel.cn/thread-835719-1-1.html
 
@@ -250,7 +256,7 @@ https://github.com/saldl/saldl
 
 C:\Users\aa\Documents\WW1\saldl-win32\saldl-win32.exe
 
---resume --connections=10 --status-refresh-interval=1 -CC [--output-filename=FNAME] [--root-dir=FOLDER] [--referer=REFERER] [--cookie-file=CFILE] [ --inline-cookies=COOKIE] [--post=POST] [--raw-post=RAWPOST] [--user-agent=UA] [--custom-headers=HEADERS] [URL]
+--resume --connections=10 --status-refresh-interval=1 --root-dir=C:\Users\aa\Desktop -CC [--output-filename=FNAME] [--referer=REFERER] [--cookie-file=CFILE] [ --inline-cookies=COOKIE] [--post=POST] [--raw-post=RAWPOST] [--user-agent=UA] [--custom-headers=HEADERS] [URL]
 
 https://github.com/axel-download-accelerator/axel
 
@@ -371,6 +377,8 @@ http://www.youtube.com/watch?v=s8D-5GdEoJA
 http://www.zinetic.co.uk/brother_hl_2240d_drum_unit_reset_instructions-details.aspx
 
 https://sites.google.com/a/maychu.edu.vn/tinhocvht/huong-dan-khac-phuc-su-co/vitinh/may-in/brother/reset-hop-muc-may-in-brother-hl-2250dn
+
+https://github.com/robsonsmartins/php-projects/tree/master/issuu-pub-downloader
 
 https://khosachdientu.wordpress.com/2012/07/09/huong-dan-chuyen-doi-file-doc-docx-pdf-html-txt-thanh-file-prc-bang-phan-mem-mobipocket-creater-4-2/
 
@@ -495,6 +503,8 @@ http://www.javlibrary.com/en/vl_searchbyid.php?keyword=%s
 </>
 
 # < Mail >
+
+anhngoc7675@gmail.com; huyen3ntl@gmail.com; nguyendinhtb711@gmail.com; tranhaiyen.tieuhoc@gmail.com
 
 namtuliemk2@gmail.com
 
