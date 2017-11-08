@@ -1,29 +1,3 @@
-https://issuu.com/nvthuvien/docs/th____l____-_tuy___n_t___p_-_th_____e7eb1cab9565ef
-
-https://issuu.com/nvthuvien/docs/th____l____-_100_n__m_-_ph___n_1
-
-https://issuu.com/nvthuvien/docs/th____l____-_100_n__m_-_ph___n_2
-
-https://issuu.com/nvthuvien/docs/th____l____-_m___y_v___n_th___-_t__
-
-http://nitroflare.com/view/4E3A0E5F353BFA2/Ti%E1%BA%BFng_h%C3%BA_ban_%C4%91%C3%AAm_%28NXB_V%C4%83n_H%C3%B3a_Th%C3%B4ng_Tin_2009%29_-_Th%E1%BA%BF_L%E1%BB%AF%2C_280_Trang.epub
-
-https://sachviet.edu.vn/threads/vang-va-mau-nxb-doi-nay-1967-the-lu-158-trang.525/
-
-https://issuu.com/nvthuvien/docs/th____l____-_m___y_v___n_th____-_th
-
-https://drive.google.com/file/d/0B0wjf-A9LTrCcHRRLUpfekZoRTQ/edit
-
-https://drive.google.com/file/d/0B0wjf-A9LTrCR0t2bGF1Rm81M1E/edit
-
-https://issuu.com/nvthuvien/docs/th____l____-_m___y_v___n_th___-_hnv/4
-
-https://issuu.com/nvthuvien/docs/th____l____-_tr___i_b____t__ng_linh
-
-https://issuu.com/nvthuvien/docs/ph_165_06_dec_1935/6
-
-https://issuu.com/chinxua/docs/den_khong_hat_bong
-
 # < Get link >
 
 https://getlinkfshare.com/
@@ -32,9 +6,13 @@ https://linksvip.net/
 
 https://vnlinks.net/
 
+https://getlinkpro.net/
+
 http://ilikesub.com/get-link-chia-se-nhac
 
 http://thuthuat.taimienphi.vn/share-acc-vip-fshare-vn-vinh-vien-mien-phi-link-vip-toc-do-cao-25890n.aspx
+
+http://thuthuat.taimienphi.vn/share-acc-vip-4share-26205n.aspx
 
 </>
 
@@ -70,6 +48,12 @@ https://www.fshare.vn/folder/RNN23YCG3Q8L
 
 http://tve-4u.org/threads/bo-gia-mario-puzo-doan-tu-huyen-trinh-huy-ninh.27205/
 
+http://tve-4u.org/threads/den-khong-hat-bong-watanabe-junichi-tu-sach-tinh-hoa-van-hoc.9656/
+
+http://tve-4u.org/threads/thanh-tri-archibald-joseph-cronin.10120/
+
+http://tve-4u.org/threads/thay-lang-tadeusz-dolega-mostowicz.14248/
+
 http://tieba.baidu.com/p/3840006456
 
 http://tieba.baidu.com/p/3263526797
@@ -96,9 +80,11 @@ http://www.lightnovel.cn/thread-835719-1-1.html
 
 # < Software >
 
-http://cmder.net/
+https://github.com/Maximus5/ConEmu
 
-clink set history_file_lines -1
+https://github.com/Maximus5/ConEmu/issues/1120
+
+Tweaking the CmdInit.cmd file: remove this set ConEmuPrompt0=$E[m$E[32m$E]9;8;"USERNAME"$E\@$E]9;8;"COMPUTERNAME"$E\$S
 
 https://github.com/vatterspun/cubicexplorer
 
@@ -132,9 +118,9 @@ about:config > browser.tabs.closeWindowWithLastTab boolean false
 
                extensions.firebug.hideDefaultInspector boolean true
 
-		devtools.inspector.enabled boolean false
+			   devtools.inspector.enabled boolean false
 
-		browser.tabs.tabClipWidth integer 1
+			   browser.tabs.tabClipWidth integer 1
 
 https://addons.mozilla.org/en-US/firefox/addon/adblock-plus/
 
@@ -164,7 +150,7 @@ https://addons.mozilla.org/en-US/firefox/addon/cookie-wizard-with-whitelist/
 
 http://www.xuldev.org/firegestures/
 
-https://addons.mozilla.org/en-US/firefox/addon/google-dictionary-and-google-t/
+https://addons.mozilla.org/en-US/firefox/addon/translate-this/
 
 https://chromium.woolyss.com/
 
@@ -188,6 +174,8 @@ https://chrome.google.com/webstore/detail/closed-tabs/eonffnnfmbfnmjpaiigdclmfel
 
 https://chrome.google.com/webstore/detail/bulk-media-downloader/ehfdcgbfcboceiclmjaofdannmjdeaoi?hl=en
 
+https://chrome.google.com/webstore/detail/skyload-download-of-music/fnmpfimijcopbiaiobinamadmnmhckmp
+
 https://chrome.google.com/webstore/detail/chrono-download-manager/mciiogijehkdemklbdcbfkefimifhecn?hl=en
 
 https://chrome.google.com/webstore/detail/permanent-clipboard/hilkjcfodmbdgpadbpehimibheopoccb?hl=en
@@ -197,6 +185,8 @@ https://chrome.google.com/webstore/detail/violent-monkey/jinjaccalgkegednnccohej
 https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe
 
 https://chrome.google.com/webstore/detail/context-menu-search/ocpcmghnefmdhljkoiapafejjohldoga?hl=en-US
+
+https://chrome.google.com/webstore/detail/epubreader/jhhclmfgfllimlhabjkgkeebkbiadflb/
 
 http://www.xuldev.org/firegestures/
 
@@ -430,11 +420,15 @@ https://vi-vn.facebook.com/ThaiTriHang/
 
 http://tieba.baidu.com/f?kw=凯尔特女人
 
+http://tieba.baidu.com/f?kw=新木优子
+
 http://tieba.baidu.com/f?kw=高露
 
 http://tieba.baidu.com/f?kw=戚薇
 
 https://www.facebook.com/StephyQiWeiVN/
+
+http://tieba.baidu.com/f?kw=徐洁儿
 
 http://www.fakenamegenerator.com/
 
@@ -626,21 +620,29 @@ Mediafire
 
 # < Red By HBO >
 
+https://www.redbyhbo.com/movie/?view=golden_slumber
+
 http://redbyhbo.com/movie/?view=confession_2014
 
 http://www.redbyhbo.com/movie/?view=prophecy
 
 http://redbyhbo.com/movie/?view=sanpei_the_fisherboy
 
+http://www.redbyhbo.com/movie/?view=the_triumphant_return_of_general_rouge
+
 https://redbyhbo.com/movie/?view=evergreen_love
 
-http://www.redbyhbo.com/movie/?view=the_triumphant_return_of_general_rouge
+https://www.redbyhbo.com/movie/?view=our_meal_for_tomorrow
 
 http://www.redbyhbo.com/movie/?view=have_a_song_on_your_lips
 
 http://www.redbyhbo.com/movie/?view=solomon_s_perjury_part_1_suspicion
 
 http://www.redbyhbo.com/movie/?view=solomon_s_perjury_part_2_judgement
+
+https://redbyhbo.com/movie/?view=thread_of_lies
+
+https://redbyhbo.com/movie/?view=wood_job
 
 </>
 
