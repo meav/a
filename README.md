@@ -1,4 +1,4 @@
-< # Get link >
+# [ Get link
 
 https://getlinkfshare.com/
 
@@ -14,17 +14,17 @@ http://thuthuat.taimienphi.vn/share-acc-vip-fshare-vn-vinh-vien-mien-phi-link-vi
 
 http://thuthuat.taimienphi.vn/share-acc-vip-4share-26205n.aspx
 
-</>
+]
 
-# < Text >
+# [ Text
 
 http://txt.do/53bv4
 
 https://github.com/milanistavietnam/text
 
-</>
+]
 
-# < Linh tinh >
+# [ Linh tinh
 
 http://www.ebook777.com/
 
@@ -38,13 +38,75 @@ http://www.giaiphapexcel.com/forum/forum.php
 
 http://www.oxfordlearnersdictionaries.com
 
-http://macgund.blogspot.com/
+[ Phim
 
-http://i.youku.com/i/UMTE2MzM0MDg=/videos?spm=a2hzp.8244740.0.0
+https://www.fshare.vn/folder/RNN23YCG3Q8L
 
 https://traibap.wordpress.com/2011/06/08/76/
 
-https://www.fshare.vn/folder/RNN23YCG3Q8L
+]
+
+[ Nhac
+
+http://i.youku.com/i/UMTE2MzM0MDg=/videos?spm=a2hzp.8244740.0.0
+
+http://macgund.blogspot.com/
+
+http://www.lightnovel.cn/thread-835719-1-1.html
+
+http://pan.baidu.com/share/link?shareid=447914139&uk=773140592&adapt=pc&fr=ftw#path=%252F
+
+[ 杨钰莹
+
+https://pan.baidu.com/share/link?uk=291990452&shareid=80373415#list/path=%2F%E6%9D%A8%E9%92%B0%E8%8E%B9-%E3%80%8A1990%E5%B9%B4-2013%E5%B9%B4%E4%BD%9C%E5%93%81%E5%90%88%E9%9B%86%E3%80%8B%2826CD%29[FLAC]
+
+http://v.pipipan.com/info/YGD11143
+
+http://android.pipipan.com/info/0Ij218174
+
+]
+
+]
+
+[ e-thuvien
+
+https://tenlua.vn/download/0b37e62de3086e/e-thuvien-part01
+
+https://tenlua.vn/download/0b37e62de30869/e-thuvien-part02
+
+https://tenlua.vn/download/0b37e62de30868/e-thuvien-part03
+
+https://tenlua.vn/download/0b37e62de3086b/e-thuvien-part04
+
+https://tenlua.vn/download/0b37e62de30a6a/e-thuvien-part05
+
+https://tenlua.vn/download/0b37e62de30a65/e-thuvien-part06
+
+https://tenlua.vn/download/0b37e62de30a64/e-thuvien-part07
+
+https://tenlua.vn/download/0b37e62de3096d/e-thuvien-part08
+
+https://tenlua.vn/download/0b37e62de3096c/e-thuvien-part09
+
+https://tenlua.vn/download/0b37e62de3096f/e-thuvien-part10
+
+https://tenlua.vn/download/0b37e62de3096e/e-thuvien-part11
+
+https://tenlua.vn/download/0b37e62de30969/e-thuvien-part12
+
+https://tenlua.vn/download/0b37e62de30968/e-thuvien-part13
+
+https://tenlua.vn/download/0b37e62de3096b/e-thuvien-part14
+
+https://tenlua.vn/download/0b37e62de30965/e-thuvien-part15
+
+https://tenlua.vn/download/0b37e62de3086d/e-thuvien-part16
+
+https://tenlua.vn/download/0b37e62de3086c/e-thuvien-part17
+
+]
+
+[ tve-4u
 
 http://tve-4u.org/threads/bo-gia-mario-puzo-doan-tu-huyen-trinh-huy-ninh.27205/
 
@@ -53,6 +115,10 @@ http://tve-4u.org/threads/den-khong-hat-bong-watanabe-junichi-tu-sach-tinh-hoa-v
 http://tve-4u.org/threads/thanh-tri-archibald-joseph-cronin.10120/
 
 http://tve-4u.org/threads/thay-lang-tadeusz-dolega-mostowicz.14248/
+
+]
+
+[ Celtic Woman 
 
 http://tieba.baidu.com/p/3840006456
 
@@ -66,25 +132,21 @@ https://www.fshare.vn/file/T60H1HW3BT
 
 https://www.tenlua.vn/download/1737e42ee60a6503/celtic-woman-emerald-musical-gems-2013-blu-ray-1080i-avc-dts-hd-5-1-iso
 
-http://pan.baidu.com/share/link?shareid=447914139&uk=773140592&adapt=pc&fr=ftw#path=%252F
+]
 
-https://pan.baidu.com/share/link?uk=291990452&shareid=80373415#list/path=%2F%E6%9D%A8%E9%92%B0%E8%8E%B9-%E3%80%8A1990%E5%B9%B4-2013%E5%B9%B4%E4%BD%9C%E5%93%81%E5%90%88%E9%9B%86%E3%80%8B%2826CD%29[FLAC]
+]
 
-http://v.pipipan.com/info/YGD11143
+# [ Software
 
-http://android.pipipan.com/info/0Ij218174
-
-http://www.lightnovel.cn/thread-835719-1-1.html
-
-</>
-
-# < Software >
+[ ConEmu
 
 https://github.com/Maximus5/ConEmu
 
 https://github.com/Maximus5/ConEmu/issues/1120
 
 Tweaking the CmdInit.cmd file: remove this set ConEmuPrompt0=$E[m$E[32m$E]9;8;"USERNAME"$E\@$E]9;8;"COMPUTERNAME"$E\$S
+
+]
 
 https://github.com/vatterspun/cubicexplorer
 
@@ -100,15 +162,21 @@ http://www.revouninstaller.com/revo_uninstaller_free_download.html
 
 http://unikey.org/bdownload.php
 
+[ Notepad
+
 https://notepad-plus-plus.org/
 
 https://sourceforge.net/projects/npp-customize/
+
+]
 
 http://free.kaspersky.com/
 
 http://z-o-o-m.eu/
 
 https://otter-browser.org/
+
+[ Firefox
 
 https://ftp.mozilla.org/pub/firefox/
 
@@ -152,6 +220,12 @@ http://www.xuldev.org/firegestures/
 
 https://addons.mozilla.org/en-US/firefox/addon/translate-this/
 
+https://addons.mozilla.org/en-US/firefox/addon/dictionary-anywhere/
+
+]
+
+[ Chromium
+
 https://chromium.woolyss.com/
 
 https://www.google.com/intl/en/chrome/browser/desktop/index.html?standalone=1&platform=win64
@@ -190,7 +264,11 @@ https://chrome.google.com/webstore/detail/epubreader/jhhclmfgfllimlhabjkgkeebkbi
 
 http://www.xuldev.org/firegestures/
 
+]
+
 "C:\Program Files\Internet Explorer\iexplore.exe" -private
+
+[ Adblock
 
 https://github.com/gorhill/uBlock#installation
 
@@ -204,6 +282,8 @@ http://abpvn.com/
 
 https://raw.githubusercontent.com/Yhonay/antipopads/master/popads.txt
 
+]
+
 https://helpx.adobe.com/flash-player/kb/archived-flash-player-versions.html
 
 http://kmeleonbrowser.org/forum/read.php?1,114856,page=1
@@ -213,6 +293,8 @@ http://www.qbittorrent.org/download.php
 http://www.rarlab.com/download.htm
 
 http://www.7-zip.org/
+
+[ PDF
 
 https://www.tracker-software.com/product/pdf-xchange-viewer
 
@@ -224,6 +306,8 @@ http://www.cutepdf.com/products/cutepdf/writer.asp
 
 http://www.ghostscript.com/download/
 
+]
+
 http://www.lingoes.net/en/translator/download.htm
 
 http://www.jaist.ac.jp/~hoangle/filesj/
@@ -234,25 +318,33 @@ http://www.extendoffice.com/download/office-tab-free-edition.html
 
 http://www.java.com/en/download/manual.jsp
 
+[ mpv
+
 https://mpv.srsfckn.biz/
 
 C:\Users\aa\Documents\WW1\mpv-i686-20160411\mpv.com
 
 [URL] --user-agent=[UA] --cookies-file=[CFILE] --referrer=[REFERER]
 
+]
+
 https://potplayer.daum.net/
 
-< "C:\Windows\System32\cmd.exe
+[ Clipboard
 
-/C <NUL set /p=[URL]| clip"
+C:\Windows\System32\cmd.exe
 
-/>
+/C <NUL set /p=[URL]| clip
 
-< "C:\Windows\System32\cmd.exe
+]
 
-/C echo [URL] >> C:\Users\aa\Desktop\1.txt" />
+[ Textfile
 
-< "C:\Windows\System32\cmd.exe
+C:\Windows\System32\cmd.exe
+
+/C echo [URL] >> C:\Users\aa\Desktop\1.txt
+
+C:\Windows\System32\cmd.exe
 
 /C
 
@@ -262,15 +354,21 @@ echo referer=[REFERER]
 
 echo cookie=[COOKIE]
 
-) >> C:\Users\aa\Desktop\1.txt"
+) >> C:\Users\aa\Desktop\1.txt
 
-/>
+]
+
+[ Saldl
 
 https://github.com/saldl/saldl
 
 C:\Users\aa\Documents\WW1\saldl-win32\saldl-win32.exe
 
 --resume --connections=10 --status-refresh-interval=1 --root-dir=C:\Users\aa\Desktop -CC [--output-filename=FNAME] [--referer=REFERER] [--cookie-file=CFILE] [ --inline-cookies=COOKIE] [--post=POST] [--raw-post=RAWPOST] [--user-agent=UA] [--custom-headers=HEADERS] [URL]
+
+]
+
+[ Axel
 
 https://github.com/axel-download-accelerator/axel
 
@@ -280,15 +378,25 @@ C:\Users\aa\Desktop\axel.exe
 
 -n 10 [-U UA] [-o C:\Users\aa\Desktop\FNAME] [-H Cookie:COOKIE] [-H Referer:REFERER] [URL]
 
+]
+
+[ IDA
+
 http://westbyte.com/ida/
 
 C:\Users\aa\Documents\ \WW3\IDA Portable\ida.exe
 
 [URL] [referer=REFERER] [description=COMMENT] [savepath=FOLDER] [filename=FNAME] [cookies=COOKIE] [post=POST]
 
+]
+
+[IDM
+
 http://www.internetdownloadmanager.com/download.html
 
 http://www.internetdownloadmanager.com/idmmzcc/idmmzcc.xpi
+
+]
 
 https://github.com/rg3/youtube-dl
 
@@ -306,9 +414,9 @@ http://www.print-conductor.com/download/
 
 www.xiles.net/nexusfont
 
-</>
+]
 
-# < Tip >
+# [ Tip
 
 gpedit.msc
 
@@ -404,11 +512,17 @@ http://quantrimang.com/trai-nghiem-che-do-duyet-web-mobile-tren-may-tinh-94260
 
 http://browserfame.com/723/spoof-user-agent-string-opera-12-wahoo
 
+http://findfb.net/Search-Post.aspx
+
 https://nudegirls4u.com/
 
 http://www.redflava.com
 
 https://www.youtube.com/channel/UC9inih1P9aUuJ3xtEqyIJcQ
+
+https://www.facebook.com/StarWarsVietNam/
+
+https://www.facebook.com/SWHolocronVN/
 
 https://hoabanland.wordpress.com/
 
@@ -438,9 +552,9 @@ http://vnoss.org/docs/?id=2
 
 http://sachxua.net/forum/index.php?topic=16946.0
 
-</>
+]
 
-# < Check Laptop >
+# [ Check Laptop
 
 https://www.facebook.com/notes/laptop-huy-hoang/thông-tin-hướng-dẫn-chọn-máy-phù-hợp-hướng-dẫn-mua-hàng-kiểm-tra-thời-gian-bảo-h/381916295281674
 
@@ -456,9 +570,9 @@ http://support.lenovo.com/en_VN/product-service/warranty-status/default.page
 
 http://www.dell.com/support/my-support/us/en/04?c=us&s=bsd&cs&l=en
 
-</>
+]
 
-# < Check Hardware >
+# [ Check Hardware
 
 http://www.cpuid.com/softwares/cpu-z.html
 
@@ -470,9 +584,9 @@ http://www.techpowerup.com/downloads/SysInfo/GPU-Z/
 
 http://www.softwareok.com/?seite=Microsoft/IsMyLcdOK
 
-</>
+]
 
-# < Search bar >
+# [ Search bar
 
 gv
 
@@ -518,13 +632,11 @@ jav
 
 http://www.javlibrary.com/en/vl_searchbyid.php?keyword=%s
 
-</>
+]
 
-# < Mail >
+# [ Mail
 
 anhngoc7675@gmail.com; huyen3ntl@gmail.com; nguyendinhtb711@gmail.com; tranhaiyen.tieuhoc@gmail.com
-
-namtuliemk2@gmail.com
 
 namtuliem@congdoanhanoi.org.vn
 
@@ -538,11 +650,13 @@ truongnguyen.a@gmail.com
 
 hongttb.1974@gmail.com
 
-</>
+hpduyenpham@gmail.com
 
-# < Account >
+]
 
-Google
+# [ Account
+
+[ Google
 
   tranqudat@gmail.com (tranqudat@outlook.com; 0918062466)
 
@@ -556,7 +670,7 @@ Google
 
   dulieucuatoi001@gmail.com  Free 1.57GB (tranqudat@gmail.com) (Tong hop + Have a song on your lips)
 
-  dulieucuatoi002@gmail.com  Free 2.45GB (tranqudat@gmail.com) (DVD Believe + DVD Songs from the Heart + Audio Celtic Woman)
+  dulieucuatoi002@gmail.com  Free 2.09GB (tranqudat@gmail.com) (DVD Believe + DVD Songs from the Heart + Audio Celtic Woman)
 
   dulieucuatoi003@gmail.com  Free 4.1GB (tranqudat@gmail.com) (Phan mem)
 
@@ -569,6 +683,8 @@ Google
   dulieucuatoi007@gmail.com  Free 1.55GB (tranqudat@gmail.com) (Chinh nghia xemphimone + Solomon's Perjury)
 
   dulieucuatoi999@gmail.com (tranqudat@gmail.com)
+  
+]
 
 Yahoo
 
@@ -616,9 +732,9 @@ Mediafire
 
   https://www.mediafire.com/?gz5b8dz
 
-</>
+]
 
-# < Red By HBO >
+# [ Red By HBO
 
 https://www.redbyhbo.com/movie/?view=golden_slumber
 
@@ -644,17 +760,17 @@ https://redbyhbo.com/movie/?view=thread_of_lies
 
 https://redbyhbo.com/movie/?view=wood_job
 
-</>
+]
 
-# < desktop.ini trong Fonts >
+# [ desktop.ini trong Fonts
 
 [.ShellClassInfo]
 
 UICLSID={BD84B380-8CA2-1069-AB1D-08000948F534}
 
-</>
+]
 
-# < Default app open file type >
+# [ Default app open file type
 
 4. Ở khung bên trái, tìm tới khóa sau:
 
@@ -676,9 +792,9 @@ Xong, giờ đóng Registry Editor lại, khởi động lại máy và thử ch
 
 [-HKEY_CURRENT_USER\Software\Microsoft\Windows\Curre ntVersion\Explorer\FileExts\.lnk]
 
-</>
+]
 
-# < Start 2 app >
+# [ Start 2 app
 
 @echo off
 
@@ -686,9 +802,9 @@ start "" "C:\Program Files\Microsoft Office\OFFICE11\WINWORD.EXE"
 
 start "" "C:\Program Files\unikey40RC2-1101-win32\UniKeyNT.exe"
 
-</>
+]
 
-# < Macro Insert Blank Page Word >
+# [ Macro Insert Blank Page Word
 
 Sub Macro2()
 
@@ -756,9 +872,11 @@ m = MsgBox("XONG", vbOK, "MA LEM KHOANG")
 
 End Sub 
 
-</>
+]
 
-# < Stylish >
+# [ Stylish
+
+[ Outlook
 
 https://userstyles.org/styles/102922/remove-outlook-com-ad-bar-and-reclaim-space
 
@@ -816,7 +934,9 @@ https://userstyles.org/styles/102922/remove-outlook-com-ad-bar-and-reclaim-space
 
 }
 
-Google
+]
+
+[ Google
 
 @-moz-document domain(google.com.vn),domain(google.com) {
 
@@ -854,7 +974,9 @@ padding: 15px !important; border-radius: 3px !important;
 
 }
 
-Vozforums.com
+]
+
+[ Vozforums.com
 
 /* vOz*/
 
@@ -888,7 +1010,9 @@ DIV[style="width:640px"], [type="text/javascript"] + TABLE, #vB_Editor_001_texta
 
 }
 
-Firefox
+]
+
+[ Firefox
 
 /* Cho nút Reload|Stop ra kế Back/Forward */
 
@@ -922,7 +1046,7 @@ Firefox
 
 @-moz-document url(about:addons) {#category-discover {display:none }}
 
-/* Context Menu
+[ /* Context Menu
 
 http://forums.mozillazine.org/viewtopic.php?f=38&t=2786537
 
@@ -1028,7 +1152,9 @@ font-size: 14pt !important }
 
 }
 
-/* Findbar on Top Right */
+]
+
+[ /* Findbar on Top Right */
 
 @namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul");
 
@@ -1212,9 +1338,13 @@ font-size: 14pt !important }
 
 }
 
-</>
+]
 
-# < Brother HL-2240D >
+]
+
+]
+
+# [ Brother HL-2240D
 
 B1: Rút hộp mực ra khỏi máy. Mở nguồn máy in.
 
@@ -1226,4 +1356,4 @@ B4: Vừa làm B3 xong máy in sẽ khởi động cơ, lúc đầu tiếng "r�
 
 B5: khi redy đã báo sáng redy thì ta rút hết tay ra. cho hộp mực vào đậy nắp. Bật nguồn. Thế là ok.
 
-</>
+]
