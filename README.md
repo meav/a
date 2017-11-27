@@ -1,4 +1,4 @@
-# < Get link >
+< # Get link >
 
 https://getlinkfshare.com/
 
