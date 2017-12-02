@@ -20,7 +20,7 @@ http://thuthuat.taimienphi.vn/share-acc-vip-4share-26205n.aspx
 
 http://txt.do/53bv4
 
-https://github.com/milanistavietnam/text
+https://github.com/meav/text
 
 ]
 
@@ -518,7 +518,7 @@ https://nudegirls4u.com/
 
 http://www.redflava.com
 
-https://www.youtube.com/channel/UC9inih1P9aUuJ3xtEqyIJcQ
+https://www.youtube.com/channel/UC9inih1P9aUuJ3xtEqyIJcQ/videos
 
 https://www.facebook.com/StarWarsVietNam/
 
@@ -1009,6 +1009,181 @@ A[rel="nofollow"][href^="member.php?"] {font-size:11px}
 DIV[style="width:640px"], [type="text/javascript"] + TABLE, #vB_Editor_001_textarea {min-width:100% }
 
 }
+
+]
+
+[ Vozmobile
+
+[ https://userstyles.org/styles/75340/vozforums-com
+
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("vozforums.com")
+{
+  div.page
+  {
+    max-width: 100%!important;
+    width: 100%!important;
+  }
+
+  td[width="160"]
+  {
+    display: none!important;
+  }
+
+  .middleads, #header_right_cell, tr td[colspan="5"] div, div[width="970"], #google_flash_inline_div, #google_flash_inline_div, IMG[width="140"][height="840"],div[style="width: 760px; height: 486px; margin: 0 auto; margin-bottom: 10px; overflow: hidden;"],div[style="height: 80px"]
+  {
+    display: none!important;
+  }
+
+  form div.clearfix
+  {
+    max-width: 100%!important;
+    width: 100%!important;
+  }
+
+  iframe
+  {
+    display: none!important;
+  }
+}
+
+]
+
+[ https://userstyles.org/styles/139476/voz-mobile
+
+@-moz-document domain(vozforums.com)
+{
+  [id^=div-gpt-ad],
+  [id^=google_ads_div],
+  .middleads,
+  [id^=ads_zone],
+  div.page > div > div > table > tbody > tr > td[valign=top]:nth-child(2),
+  body > div:nth-child(3) > form,
+  #header_right_cell
+  {
+    display: none;
+  }
+
+  .page, #neo_logobar,
+  div[style*='width: 970px'],
+  div.page table > tbody > tr > td > div[style*='width:728px']
+  {
+    min-width: 0px !important;
+    width: 100% !important;
+  }
+
+  div.page > div > div > table > tbody > tr > td[valign=top] > *
+  {
+    display: none;
+  }
+
+  div.page > div > div > table > tbody > tr > td[valign=top] > form,
+  div.page > div > div > table > tbody > tr > td[valign=top] > table.tborder
+  {
+    display: block;
+  }
+
+  div.page > div > div > table > tbody > tr > td[valign=top] > .vbmenu_popup
+  {
+    display: inherit;
+  }
+
+  div > .tborder > table > tbody > tr > td.vbmenu_control
+  {
+    display: block;
+  }
+
+  div.page > div > div > table > tbody > tr > td[valign=top] > form[action="forumdisplay.php"] > table > tbody
+  {
+    display: flex;
+    flex-direction: column;
+  }
+
+  div.page > div > div > table > tbody > tr > td[valign=top] > form[action="forumdisplay.php"] > table > tbody > tr
+  {
+    display: flex;
+    flex-direction: column;
+  }
+
+  #threadslist > tbody
+  {
+    display: none;
+  }
+
+  #threadslist > tbody[id^='threadbits_forum']
+  {
+    display: block;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+
+  [id^='threadbits_forum_'] > tr
+  {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    border-bottom: 1px solid #666;
+  }
+
+  [id^='threadbits_forum_'] > tr > td
+  {
+    flex-grow: 1;
+    order: 2;
+  }
+
+  [id^='threadbits_forum_'] > tr > td[id^=td_threadstatusicon_],
+  [id^='threadbits_forum_'] > tr > td[id^=td_threadtitle_]
+  {
+    order: 1;
+  }
+
+  a[href*='misc.php?do=whoposted']::before
+  {
+    content: "Replies: ";
+  }
+
+  [id^='threadbits_forum_'] > tr > td:last-child:before
+  {
+    content: "Views: ";
+  }
+  /* Font-size adjust */
+  body, td, th, p, li, a.smallfont, div, a, .navbar strong, font[size="2"]
+  {
+    font-size: 35px;
+  }
+
+  .vbmenu_control
+  {
+    /*font-weight: normal !important;
+    font-size: 35px !important;*/;
+  }
+
+  #threadslist > tbody:first-child *
+  {
+    font-size: 25px !important;
+  }
+
+  .thead[width="150"], td[id^="td_threadtitle_"] + td > div, a[href^="member.php?find"]
+  {
+    white-space: normal !important;
+    font-size: 20px !important;
+  }
+
+  div.smallfont[style="text-align: right; white-space: nowrap;"]
+  {
+    white-space: normal !important;
+  }
+
+  img[src="images/buttons/lastpost.gif"], img[src="images/buttons/firstnew.gif"]
+  {
+    width: 25px !important;
+    padding: 10px !important;
+  }
+}
+
+]
 
 ]
 
