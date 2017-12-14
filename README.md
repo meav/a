@@ -1,5 +1,7 @@
 # [ Get link
 
+http://www.linkvip.info/
+
 https://getlinkfshare.com/
 
 https://linksvip.net/
@@ -9,6 +11,8 @@ https://vnlinks.net/
 https://getlinkpro.net/
 
 http://ilikesub.com/get-link-chia-se-nhac
+
+https://weibomiaopai.com/download-video-parser.php
 
 http://thuthuat.taimienphi.vn/share-acc-vip-fshare-vn-vinh-vien-mien-phi-link-vip-toc-do-cao-25890n.aspx
 
@@ -390,7 +394,7 @@ C:\Users\aa\Documents\ \WW3\IDA Portable\ida.exe
 
 ]
 
-[IDM
+[ IDM
 
 http://www.internetdownloadmanager.com/download.html
 
@@ -513,6 +517,8 @@ http://quantrimang.com/trai-nghiem-che-do-duyet-web-mobile-tren-may-tinh-94260
 http://browserfame.com/723/spoof-user-agent-string-opera-12-wahoo
 
 http://findfb.net/Search-Post.aspx
+
+http://emhi-vianh.blogspot.com/
 
 https://nudegirls4u.com/
 
@@ -747,6 +753,8 @@ http://redbyhbo.com/movie/?view=sanpei_the_fisherboy
 http://www.redbyhbo.com/movie/?view=the_triumphant_return_of_general_rouge
 
 https://redbyhbo.com/movie/?view=evergreen_love
+
+https://www.redbyhbo.com/movie/?view=taipei_exchanges
 
 https://www.redbyhbo.com/movie/?view=our_meal_for_tomorrow
 
