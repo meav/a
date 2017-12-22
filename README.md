@@ -254,7 +254,7 @@ https://chrome.google.com/webstore/detail/bulk-media-downloader/ehfdcgbfcboceicl
 
 https://chrome.google.com/webstore/detail/skyload-download-of-music/fnmpfimijcopbiaiobinamadmnmhckmp
 
-https://chrome.google.com/webstore/detail/chrono-download-manager/mciiogijehkdemklbdcbfkefimifhecn?hl=en
+https://chrome.google.com/webstore/detail/curlwget/jmocjfidanebdlinpbcdkcmgdifblncg
 
 https://chrome.google.com/webstore/detail/permanent-clipboard/hilkjcfodmbdgpadbpehimibheopoccb?hl=en
 
@@ -529,6 +529,8 @@ https://www.youtube.com/channel/UC9inih1P9aUuJ3xtEqyIJcQ/videos
 https://www.facebook.com/StarWarsVietNam/
 
 https://www.facebook.com/SWHolocronVN/
+
+https://www.facebook.com/starwarsvnfanpage/
 
 https://hoabanland.wordpress.com/
 
