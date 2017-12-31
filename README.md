@@ -1,5 +1,3 @@
-http://www.boxofficemojo.com/franchises/chart/?id=starwars.htm
-
 # [ Get link
 
 http://www.linkvip.info/
@@ -49,6 +47,10 @@ http://www.oxfordlearnersdictionaries.com
 https://www.fshare.vn/folder/RNN23YCG3Q8L
 
 https://traibap.wordpress.com/2011/06/08/76/
+
+http://www.boxofficemojo.com/franchises/chart/?id=starwars.htm
+
+http://www.boxofficemojo.com/franchises/chart/?id=avengers.htm
 
 ]
 
