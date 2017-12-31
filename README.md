@@ -1,3 +1,5 @@
+http://www.boxofficemojo.com/franchises/chart/?id=starwars.htm
+
 # [ Get link
 
 http://www.linkvip.info/
@@ -316,6 +318,8 @@ http://www.lingoes.net/en/translator/download.htm
 
 http://www.jaist.ac.jp/~hoangle/filesj/
 
+https://www.stardock.com/products/groupy/
+
 http://ejie.me/
 
 http://www.extendoffice.com/download/office-tab-free-edition.html
@@ -408,6 +412,14 @@ https://github.com/soimort/you-get
 
 http://txpress.blogspot.com/2007/01/join-multiple-video-mpg-files-in.html
 
+[ Shntool
+
+http://www.etree.org/shnutils/shntool/
+
+"C:\Users\aa\Documents\WW1\shntool-3.0.10\shntool.exe" split -f "C:\Users\aa\Desktop\2.cue" "C:\Users\aa\Desktop\2.wav" -d "C:\Users\aa\desktop"
+
+]
+
 http://www.aegisub.org/downloads/
 
 https://www.tncnonline.com.vn/Pages/tools.aspx
@@ -416,7 +428,7 @@ http://www.ext2fsd.com/?page_id=16
 
 http://www.print-conductor.com/download/
 
-www.xiles.net/nexusfont
+http://www.xiles.net/nexusfont
 
 ]
 
@@ -686,7 +698,7 @@ hpduyenpham@gmail.com
 
   dulieucuatoi005@gmail.com  Free 0.37GB (tranqudat@gmail.com) (Nhac)
 
-  dulieucuatoi006@gmail.com  Free 14.19GB (tranqudat@gmail.com) (Nhac Khong chu de)
+  dulieucuatoi006@gmail.com  Free 13.77GB (tranqudat@gmail.com) (Nhac Khong chu de)
 
   dulieucuatoi007@gmail.com  Free 1.55GB (tranqudat@gmail.com) (Chinh nghia xemphimone + Solomon's Perjury)
 
