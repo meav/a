@@ -1,22 +1,12 @@
 # [ Get link
 
-http://www.linkvip.info/
-
-https://getlinkfshare.com/
-
-https://linksvip.net/
-
-https://vnlinks.net/
+https://luanxt.tk/get-link-mp3-320-lossless-vip-zing/
 
 https://getlinkpro.net/
 
-http://ilikesub.com/get-link-chia-se-nhac
+https://linksvip.net/
 
 https://weibomiaopai.com/download-video-parser.php
-
-http://thuthuat.taimienphi.vn/share-acc-vip-fshare-vn-vinh-vien-mien-phi-link-vip-toc-do-cao-25890n.aspx
-
-http://thuthuat.taimienphi.vn/share-acc-vip-4share-26205n.aspx
 
 ]
 
@@ -29,8 +19,6 @@ https://github.com/meav/text
 ]
 
 # [ Linh tinh
-
-http://www.ebook777.com/
 
 http://mirror.ufs.ac.za/
 
@@ -56,6 +44,10 @@ http://www.boxofficemojo.com/franchises/chart/?id=avengers.htm
 
 [ Nhac
 
+http://itdmusic.me/
+
+http://digitalk7.com/
+
 http://i.youku.com/i/UMTE2MzM0MDg=/videos?spm=a2hzp.8244740.0.0
 
 http://macgund.blogspot.com/
@@ -75,6 +67,12 @@ http://android.pipipan.com/info/0Ij218174
 ]
 
 ]
+
+[ ebook
+
+http://www.ebook777.com/
+
+https://www.facebook.com/hashtag/ebolicebook
 
 [ e-thuvien
 
@@ -123,6 +121,8 @@ http://tve-4u.org/threads/den-khong-hat-bong-watanabe-junichi-tu-sach-tinh-hoa-v
 http://tve-4u.org/threads/thanh-tri-archibald-joseph-cronin.10120/
 
 http://tve-4u.org/threads/thay-lang-tadeusz-dolega-mostowicz.14248/
+
+]
 
 ]
 
@@ -698,9 +698,9 @@ hpduyenpham@gmail.com
 
   dulieucuatoi004@gmail.com  Free 2.15GB (tranqudat@gmail.com) (Win)
 
-  dulieucuatoi005@gmail.com  Free 0.37GB (tranqudat@gmail.com) (Nhac)
+  dulieucuatoi005@gmail.com  Free 1.64GB (tranqudat@gmail.com) (Nhac)
 
-  dulieucuatoi006@gmail.com  Free 13.77GB (tranqudat@gmail.com) (Nhac Khong chu de)
+  dulieucuatoi006@gmail.com  Free 12.33GB (tranqudat@gmail.com) (Nhac Khong chu de + Thai Tri Hang)
 
   dulieucuatoi007@gmail.com  Free 1.55GB (tranqudat@gmail.com) (Chinh nghia xemphimone + Solomon's Perjury)
 
