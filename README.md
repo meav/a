@@ -56,6 +56,8 @@ http://www.lightnovel.cn/thread-835719-1-1.html
 
 http://pan.baidu.com/share/link?shareid=447914139&uk=773140592&adapt=pc&fr=ftw#path=%252F
 
+http://www.162wp.com/yinle/2014-12-23/7915.html
+
 [ 杨钰莹
 
 https://pan.baidu.com/share/link?uk=291990452&shareid=80373415#list/path=%2F%E6%9D%A8%E9%92%B0%E8%8E%B9-%E3%80%8A1990%E5%B9%B4-2013%E5%B9%B4%E4%BD%9C%E5%93%81%E5%90%88%E9%9B%86%E3%80%8B%2826CD%29[FLAC]
@@ -146,6 +148,14 @@ https://www.tenlua.vn/download/1737e42ee60a6503/celtic-woman-emerald-musical-gem
 
 # [ Software
 
+[ Task Scheduler
+
+C:\Users\aa\Documents\WW1\ConEmuPack.171025\ConEmu.exe /MIN /Title ConEmu
+
+cmd.exe /c start /min "" "C:\Windows\notepad.exe" "C:\Users\aa\Documents\WW1\WW2\Fan Case.txt"
+
+]
+
 [ ConEmu
 
 https://github.com/Maximus5/ConEmu
@@ -153,6 +163,10 @@ https://github.com/Maximus5/ConEmu
 https://github.com/Maximus5/ConEmu/issues/1120
 
 Tweaking the CmdInit.cmd file: remove this set ConEmuPrompt0=$E[m$E[32m$E]9;8;"USERNAME"$E\@$E]9;8;"COMPUTERNAME"$E\$S
+
+chcp utf-8
+
+alias e="C:\Users\aa\Documents\WW1\CubicExplorerPortable\CubicExplorerPortable.exe" $*
 
 ]
 
@@ -214,6 +228,8 @@ https://greasyfork.org/en/scripts/23635-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E7%
 
 https://greasyfork.org/scripts/7382-baidupandownloadhelper-modify-by-ted423/code/BaiduPanDownloadHelper%20modify%20by%20ted423.user.js
 
+https://greasyfork.org/vi/scripts/16204-google-translator-tooltip-expanded-fork
+
 https://vozforums.com/showpost.php?p=60840624&postcount=104961
 
 https://addons.mozilla.org/en-US/firefox/addon/stylish/
@@ -229,6 +245,10 @@ http://www.xuldev.org/firegestures/
 https://addons.mozilla.org/en-US/firefox/addon/translate-this/
 
 https://addons.mozilla.org/en-US/firefox/addon/dictionary-anywhere/
+
+https://addons.mozilla.org/en-US/firefox/addon/dom-inspector-6622/
+
+https://addons.mozilla.org/en-US/firefox/addon/element-inspector/
 
 ]
 
@@ -259,6 +279,8 @@ https://chrome.google.com/webstore/detail/bulk-media-downloader/ehfdcgbfcboceicl
 https://chrome.google.com/webstore/detail/skyload-download-of-music/fnmpfimijcopbiaiobinamadmnmhckmp
 
 https://chrome.google.com/webstore/detail/curlwget/jmocjfidanebdlinpbcdkcmgdifblncg
+
+https://chrome.google.com/webstore/detail/baidudl/mccebkegnopjehbdbjbepjkoefnlkhef
 
 https://chrome.google.com/webstore/detail/permanent-clipboard/hilkjcfodmbdgpadbpehimibheopoccb?hl=en
 
@@ -344,7 +366,7 @@ https://potplayer.daum.net/
 
 C:\Windows\System32\cmd.exe
 
-/C <NUL set /p=[URL]| clip
+/C echo | set /p=[URL]|clip
 
 ]
 
@@ -409,6 +431,8 @@ http://www.internetdownloadmanager.com/idmmzcc/idmmzcc.xpi
 ]
 
 https://github.com/rg3/youtube-dl
+
+https://www.ffmpeg.org/download.html
 
 https://github.com/soimort/you-get
 
@@ -700,7 +724,7 @@ hpduyenpham@gmail.com
 
   dulieucuatoi005@gmail.com  Free 1.64GB (tranqudat@gmail.com) (Nhac)
 
-  dulieucuatoi006@gmail.com  Free 12.33GB (tranqudat@gmail.com) (Nhac Khong chu de + Thai Tri Hang)
+  dulieucuatoi006@gmail.com  Free 13.18GB (tranqudat@gmail.com) (Nhac Khong chu de + Thai Tri Hang)
 
   dulieucuatoi007@gmail.com  Free 1.55GB (tranqudat@gmail.com) (Chinh nghia xemphimone + Solomon's Perjury)
 
@@ -1000,6 +1024,20 @@ padding: 15px !important; border-radius: 3px !important;
 
 ]
 
+[ Thiendia.com
+
+@-moz-document domain("thiendia.com")
+
+{
+
+div.mainContent {min-width: 80% !important;}
+
+div.sidebar {display:none !important;}
+
+}
+
+]
+
 [ Vozforums.com
 
 /* vOz*/
@@ -1212,6 +1250,30 @@ DIV[style="width:640px"], [type="text/javascript"] + TABLE, #vB_Editor_001_texta
 ]
 
 [ Firefox
+
+/* Sidebar Button */
+
+#sidebars-button {
+  
+-moz-image-region: auto !important;
+  
+list-style-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAB2SURBVDhP7Y5BDkAwEEXrPhZCwkJsWAiLLtzMGRzJIXAL/08bIk1TrPuSl/HMSKjIxQI78xikhbx/0MAD9lJ+uN8h7x1qyOUo5TJA7nnnpYL8Ey11w+b7UipAATc4SZnJzqVekkF+NNvJ/kwKVzt/k9gZ8aLUCX5HERudEihhAAAAAElFTkSuQmCC") !important;
+  
+}
+
+/* Find Toolbar on Top and Central */
+
+#FindToolbar
+
+{
+  
+  position: fixed;
+  
+  top: 62px;
+  
+  right: 350px;
+  
+}
 
 /* Cho nút Reload|Stop ra kế Back/Forward */
 
