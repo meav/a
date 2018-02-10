@@ -254,6 +254,44 @@ https://addons.mozilla.org/en-US/firefox/addon/element-inspector/
 
 ]
 
+[ Palemoon
+
+https://www.palemoon.org/palemoon-portable.shtml
+
+about:config > browser.tabs.closeWindowWithLastTab boolean false
+
+about:config > browser.tabs.tabClipWidth integer 1
+
+https://addons.palemoon.org/addon/white-moon/
+
+https://addons.palemoon.org/incompatible/
+
+https://forum.palemoon.org/viewtopic.php?t=15012
+
+https://forum.palemoon.org/viewtopic.php?t=14666
+
+https://addons.mozilla.org/en-US/firefox/addon/dom-inspector-6622/
+
+https://addons.mozilla.org/en-US/firefox/addon/element-inspector/
+
+http://www.xuldev.org/firegestures/
+
+https://addons.mozilla.org/en-US/firefox/addon/flashgot/
+
+https://addons.palemoon.org/extensions/ > Greasemonkey for Pale Moon
+
+https://addons.mozilla.org/en-US/firefox/addon/s3menu-wizard/
+
+https://addons.mozilla.org/en-US/firefox/addon/stylish/
+
+https://addons.palemoon.org/addon/tgsidebar/
+
+https://addons.palemoon.org/addon/toolbarize-menu-button/
+
+https://addons.palemoon.org/addon/translatethis/
+
+]
+
 [ Chromium
 
 https://chromium.woolyss.com/
@@ -567,8 +605,6 @@ http://www.redflava.com
 https://www.youtube.com/channel/UC9inih1P9aUuJ3xtEqyIJcQ/videos
 
 https://www.facebook.com/StarWarsVietNam/
-
-https://www.facebook.com/SWHolocronVN/
 
 https://www.facebook.com/starwarsvnfanpage/
 
@@ -1253,9 +1289,15 @@ DIV[style="width:640px"], [type="text/javascript"] + TABLE, #vB_Editor_001_texta
 
 [ Firefox
 
+/* Center tab */
+
+#TabsToolbar .tabbrowser-tabs { display: inline-block; text-align: center; }
+
+#TabsToolbar .tabbrowser-tab { width: 300px !important }
+
 /* Status Text */
 
-statuspanel {left: 0px !important; right: 0px !important; text-align: center !important; font-size: 14px !important; }
+statuspanel { left: 0px !important; right: 0px !important; text-align: center !important; font-size: 14px !important; }
 
 /* Sidebar Button */
 
@@ -1269,17 +1311,7 @@ list-style-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAY
 
 /* Find Toolbar on Top and Central */
 
-#FindToolbar
-
-{
-  
-  position: fixed;
-  
-  top: 62px;
-  
-  right: 350px;
-  
-}
+#FindToolbar { position: fixed; top: 62px; left: 300px; }
 
 /* Cho nút Reload|Stop ra kế Back/Forward */
 
@@ -1293,21 +1325,9 @@ list-style-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAY
 
 /* Close Tab Button */
 
-.tab-close-button {
+.tab-close-button {	visibility: hidden !important; margin-left: -16px !important; }
 
-	visibility: hidden !important;
-
-	margin-left: -16px !important;
-
-}
-
-.tabbrowser-tab:not([selected]):hover .tab-close-button {
-
-	visibility: visible !important;	
-
-	margin-left: 0px !important;
-
-}
+.tabbrowser-tab:not([selected]):hover .tab-close-button { visibility: visible !important; margin-left: 0px !important; }
 
 /* Addon Manager */
 
