@@ -54,6 +54,8 @@ http://macgund.blogspot.com/
 
 http://www.lightnovel.cn/thread-835719-1-1.html
 
+http://tieba.baidu.com/p/4157572241
+
 http://pan.baidu.com/share/link?shareid=447914139&uk=773140592&adapt=pc&fr=ftw#path=%252F
 
 http://www.162wp.com/yinle/2014-12-23/7915.html
@@ -156,6 +158,18 @@ C:\Users\aa\Documents\WW1\ConEmuPack.171025\ConEmu.exe /MIN /Title ConEmu
 
 cmd.exe /c start /min "" "C:\Windows\notepad.exe" "C:\Users\aa\Documents\WW1\WW2\Fan Case.txt"
 
+https://social.technet.microsoft.com/Forums/windows/en-US/0462579d-780a-460a-befd-90f755e902aa/how-to-schedule-a-task-on-resume-from-sleep?forum=itprovistaapps
+
+Triggers
+
+Begin the task: "On an event"
+
+Log: System
+
+Source: Power-Troubleshooter
+
+Event ID: 1
+
 ]
 
 [ ConEmu
@@ -228,7 +242,7 @@ https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/
 
 https://greasyfork.org/en/scripts/23635-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E7%9B%B4%E6%8E%A5%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B
 
-https://greasyfork.org/scripts/7382-baidupandownloadhelper-modify-by-ted423/code/BaiduPanDownloadHelper%20modify%20by%20ted423.user.js
+https://greasyfork.org/en/scripts/36729-pan-download/
 
 https://greasyfork.org/vi/scripts/16204-google-translator-tooltip-expanded-fork
 
@@ -289,6 +303,8 @@ https://addons.palemoon.org/addon/tgsidebar/
 https://addons.palemoon.org/addon/toolbarize-menu-button/
 
 https://addons.palemoon.org/addon/translatethis/
+
+https://addons.palemoon.org/addon/add-to-search-bar/
 
 ]
 
@@ -449,6 +465,12 @@ https://st0rage.org/~n2j3/?page_id=225717166
 C:\Users\aa\Desktop\axel.exe
 
 -n 10 [-U UA] [-o C:\Users\aa\Desktop\FNAME] [-H Cookie:COOKIE] [-H Referer:REFERER] [URL]
+
+]
+
+[ BaiduPCS-Go
+
+https://github.com/iikira/BaiduPCS-Go
 
 ]
 
