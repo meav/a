@@ -20,15 +20,25 @@ https://github.com/meav/text
 
 # [ Linh tinh
 
+http://www.oxfordlearnersdictionaries.com
+
+https://www.rabb.it/
+
 http://mirror.ufs.ac.za/
 
 https://sourceforge.net/projects/thumbapps/files/
 
+http://www.fakenamegenerator.com/
+
+https://login.teamviewer.com/connect/Flash
+
+http://vnoss.org/docs/?id=2
+
+http://sachxua.net/forum/index.php?topic=16946.0
+
 http://thuvienphapluat.vn/
 
 http://www.giaiphapexcel.com/forum/forum.php
-
-http://www.oxfordlearnersdictionaries.com
 
 [ Phim
 
@@ -143,6 +153,8 @@ http://tieba.baidu.com/p/2741106090
 http://tieba.baidu.com/p/4853103946
 
 https://www.fshare.vn/file/T60H1HW3BT
+
+https://www.fshare.vn/file/3J88719XM4EEJ73
 
 https://www.tenlua.vn/download/1737e42ee60a6503/celtic-woman-emerald-musical-gems-2013-blu-ray-1080i-avc-dts-hd-5-1-iso
 
@@ -649,14 +661,6 @@ http://tieba.baidu.com/f?kw=戚薇
 https://www.facebook.com/StephyQiWeiVN/
 
 http://tieba.baidu.com/f?kw=徐洁儿
-
-http://www.fakenamegenerator.com/
-
-https://login.teamviewer.com/connect/Flash
-
-http://vnoss.org/docs/?id=2
-
-http://sachxua.net/forum/index.php?topic=16946.0
 
 ]
 
