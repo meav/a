@@ -254,8 +254,6 @@ https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/
 
 https://greasyfork.org/en/scripts/23635-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E7%9B%B4%E6%8E%A5%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B
 
-https://greasyfork.org/en/scripts/36729-pan-download/
-
 https://greasyfork.org/vi/scripts/16204-google-translator-tooltip-expanded-fork
 
 https://vozforums.com/showpost.php?p=60840624&postcount=104961
@@ -486,6 +484,12 @@ https://github.com/iikira/BaiduPCS-Go
 
 ]
 
+[ Mega.nz
+
+https://megatools.megous.com/
+
+]
+
 [ IDA
 
 http://westbyte.com/ida/
@@ -529,6 +533,20 @@ http://www.ext2fsd.com/?page_id=16
 http://www.print-conductor.com/download/
 
 http://www.xiles.net/nexusfont
+
+[ Capture
+
+http://www.donationcoder.com/software/mouser/popular-apps/minicap
+
+http://www.faststone.org/FSCaptureDetail.htm
+
+http://www.hyperionics.com/
+
+http://ohsoft.net/eng/ocam/intro.php?cate=1002
+
+https://github.com/MathewSachin/Captura
+
+]
 
 ]
 
@@ -651,6 +669,8 @@ http://jht.pixnet.net/blog
 https://vi-vn.facebook.com/ThaiTriHang/
 
 http://tieba.baidu.com/f?kw=凯尔特女人
+
+https://www.facebook.com/Celtic-Woman-Brasil-156278887741179/
 
 http://tieba.baidu.com/f?kw=新木优子
 
@@ -786,9 +806,9 @@ hpduyenpham@gmail.com
 
   dulieucuatoi004@gmail.com  Free 2.15GB (tranqudat@gmail.com) (Win)
 
-  dulieucuatoi005@gmail.com  Free 1.64GB (tranqudat@gmail.com) (Nhac)
+  dulieucuatoi005@gmail.com  Free 1.84GB (tranqudat@gmail.com) (Nhac)
 
-  dulieucuatoi006@gmail.com  Free 13.18GB (tranqudat@gmail.com) (Nhac Khong chu de + Thai Tri Hang)
+  dulieucuatoi006@gmail.com  Free 11.9GB (tranqudat@gmail.com) (Nhac Khong chu de + Thai Tri Hang)
 
   dulieucuatoi007@gmail.com  Free 1.55GB (tranqudat@gmail.com) (Chinh nghia xemphimone + Solomon's Perjury)
 
@@ -844,17 +864,7 @@ Mediafire
 
 ]
 
-# [ Red By HBO
-
-https://www.redbyhbo.com/movie/?view=golden_slumber
-
-http://redbyhbo.com/movie/?view=confession_2014
-
-http://www.redbyhbo.com/movie/?view=prophecy
-
-http://redbyhbo.com/movie/?view=sanpei_the_fisherboy
-
-http://www.redbyhbo.com/movie/?view=the_triumphant_return_of_general_rouge
+# [ TV Film
 
 https://redbyhbo.com/movie/?view=evergreen_love
 
@@ -871,6 +881,18 @@ http://www.redbyhbo.com/movie/?view=solomon_s_perjury_part_2_judgement
 https://redbyhbo.com/movie/?view=thread_of_lies
 
 https://redbyhbo.com/movie/?view=wood_job
+
+http://hboasia.com/HBO/en-vn/shows/star-wars-episode-iv-a-new-hope-1023990/
+
+http://hboasia.com/HBO/en-vn/shows/star-wars-episode-v-the-empire-strikes-back-1022963/
+
+http://hboasia.com/HBO/en-vn/shows/star-wars-episode-vi-return-of-the-jedi-1022964/
+
+http://hboasia.com/HBO/en-vn/shows/star-wars-episode-i-the-phantom-menace-1022960/
+
+http://hboasia.com/HBO/en-vn/shows/star-wars-episode-ii-attack-of-the-clones-1022961/
+
+http://hboasia.com/HBO/en-vn/shows/star-wars-episode-iii-revenge-of-the-sith-1022962/
 
 ]
 
@@ -1482,5 +1504,47 @@ B3: Bên tay phải của mình (nhìn trực diện máy in) có 1 lỗ bên tr
 B4: Vừa làm B3 xong máy in sẽ khởi động cơ, lúc đầu tiếng "rồ" nhỏ, sau đó sẽ phát tiếng " rồ" lớn.-> đếm 1-2-3 với tốc độ đếm của tín hiệu đèn đường ( lúc này tiếng "rồ" lớn vẫn kêu), ta thả tay trài ra khỏi nẫy (1) với thời gian 1 giây lại giữ nẫy (1) lại -> Máy ngưng "rồ" lớn 1-2 giây rồi lại rồ lớn lần nữa -> Máy sẽ không còn tín hiệu toner.
 
 B5: khi redy đã báo sáng redy thì ta rút hết tay ra. cho hộp mực vào đậy nắp. Bật nguồn. Thế là ok.
+
+]
+
+# [ Đạp xe
+
+Đường Nguyễn Cơ Thạch 4.10km
+
+Đường Lê Đức Thọ 5.05km
+
+Cầu vượt Mai Dịch 5.54km
+
+Đường vòng Lê Đức Thọ -> Nguyễn Cơ Thạch 6.05km
+
+Cầu vượt Mai Dịch -> UBND Quận Bắc Từ Liêm 6.30 km
+
+Sân vận động Mĩ Đình 6.95km
+
+Hết đường mới 7.28km
+
+Cầu vượt Mai Dịch -> Đầu đường Văn Tiến Dũng 7.30km
+
+Bến xe Mĩ Đình 7.51km
+
+Ngã tư Nhổn 8.13km
+
+Liên đoàn bóng đá Việt Nam VFF 8.23km
+
+Đường mới -> Quốc lộ 70 -> Đường 32 8.33km
+
+Hết đường Văn Tiến Dũng 9.01km
+
+Vòng xoay ra Kengnam 9.49km
+
+Vòng xoay Viện Huyết học 9.49km
+
+Hồ nước trên đường Tây Tựu gần ngã tư Nhổn 9.54km
+
+Trường TH Tây Tựu B 9.62km
+
+Nội thất Kim Hoàng Gia 10.05km
+
+Đại lộ Thăng Long 11.29km
 
 ]
