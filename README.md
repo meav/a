@@ -20,6 +20,8 @@ https://github.com/meav/text
 
 # [ Linh tinh
 
+http://www.geodistance.com/
+
 http://www.oxfordlearnersdictionaries.com
 
 https://www.rabb.it/
@@ -60,6 +62,12 @@ http://digitalk7.com/
 
 http://i.youku.com/i/UMTE2MzM0MDg=/videos?spm=a2hzp.8244740.0.0
 
+https://vozforums.com/showthread.php?t=7089909
+
+https://ketnoidamme.vn/threads/tong-hop-nhung-ca-khuc-nhac-hoa-hay-nhat.1460/
+
+http://sonyfan.vn/diendan/threads/616/
+
 http://macgund.blogspot.com/
 
 http://www.lightnovel.cn/thread-835719-1-1.html
@@ -86,9 +94,9 @@ http://android.pipipan.com/info/0Ij218174
 
 http://www.ebook777.com/
 
-https://www.facebook.com/pg/EbolicEbook/photos/?tab=album&album_id=1697077483638865
+https://www.facebook.com/hashtag/ebolicebook
 
-https://www.facebook.com/pg/EbolicEbook/photos/?tab=album&album_id=1722389857774294
+https://www.facebook.com/hashtag/ebolicelite
 
 [ e-thuvien
 
@@ -209,6 +217,10 @@ http://www.hexagora.com/en_dw_davperf.asp
 http://www.bandisoft.com/honeyview/
 
 http://www.revouninstaller.com/revo_uninstaller_free_download.html
+
+https://vozforums.com/showthread.php?t=6882941
+
+https://drive.google.com/drive/folders/12DbnnsOs89D79loTZ_rTuU696qZZPB1_
 
 http://unikey.org/bdownload.php
 
@@ -420,6 +432,8 @@ http://www.java.com/en/download/manual.jsp
 
 https://mpv.srsfckn.biz/
 
+https://www.dropbox.com/s/4ao0zxhej2dmak9
+
 C:\Users\aa\Documents\WW1\mpv-i686-20160411\mpv.com
 
 [URL] --user-agent=[UA] --cookies-file=[CFILE] --referrer=[REFERER]
@@ -561,6 +575,8 @@ msconfig
 Phải tinh chỉnh bang tay 1 chút là bỏ hiệu ứng trong Advance System Settings. Bỏ hết tất cả chỉ giữ lại Enable Peek, Show thumnails instead of icons và Smooth edges of screen fonts. Vào msconfig chọn Boot > chọn No GUI boot, chọn Advance options, chọn Number of proccessors và chọn max số CPU.
 
 https://www.quora.com/How-do-I-turn-off-windows-auto-update-in-Windows-8-1
+
+http://vforum.vn/diendan/showthread.php?64221-Huong-dan-cach-tat-mo-Windows-Defender-tren-Win-10-8-1-8
 
 http://www.tomshardware.com/faq/id-1866547/completely-disable-action-center.html
 
@@ -800,7 +816,7 @@ hpduyenpham@gmail.com
 
   dulieucuatoi001@gmail.com  Free 1.57GB (tranqudat@gmail.com) (Tong hop + Have a song on your lips)
 
-  dulieucuatoi002@gmail.com  Free 2.09GB (tranqudat@gmail.com) (DVD Believe + DVD Songs from the Heart + Audio Celtic Woman)
+  dulieucuatoi002@gmail.com  Free 1.7GB (tranqudat@gmail.com) (DVD Believe + DVD Songs from the Heart + Audio Celtic Woman)
 
   dulieucuatoi003@gmail.com  Free 4.1GB (tranqudat@gmail.com) (Phan mem)
 
@@ -808,7 +824,7 @@ hpduyenpham@gmail.com
 
   dulieucuatoi005@gmail.com  Free 1.84GB (tranqudat@gmail.com) (Nhac)
 
-  dulieucuatoi006@gmail.com  Free 11.9GB (tranqudat@gmail.com) (Nhac Khong chu de + Thai Tri Hang)
+  dulieucuatoi006@gmail.com  Free 11.14GB (tranqudat@gmail.com) (Nhac Khong chu de + Thai Tri Hang)
 
   dulieucuatoi007@gmail.com  Free 1.55GB (tranqudat@gmail.com) (Chinh nghia xemphimone + Solomon's Perjury)
 
