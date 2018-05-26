@@ -58,6 +58,8 @@ http://www.boxofficemojo.com/franchises/chart/?id=avengers.htm
 
 http://itdmusic.me/
 
+https://ifxd.bid/
+
 http://digitalk7.com/
 
 http://i.youku.com/i/UMTE2MzM0MDg=/videos?spm=a2hzp.8244740.0.0
@@ -65,8 +67,6 @@ http://i.youku.com/i/UMTE2MzM0MDg=/videos?spm=a2hzp.8244740.0.0
 https://vozforums.com/showthread.php?t=7089909
 
 https://ketnoidamme.vn/threads/tong-hop-nhung-ca-khuc-nhac-hoa-hay-nhat.1460/
-
-http://sonyfan.vn/diendan/threads/616/
 
 http://macgund.blogspot.com/
 
@@ -815,6 +815,14 @@ hpduyenpham@gmail.com
   khongcanlakhongcan@gmail.com (tranqudat@outlook.com)
 
   dulieucuatoi001@gmail.com  Free 1.57GB (tranqudat@gmail.com) (Tong hop + Have a song on your lips)
+  
+  https://drive.google.com/drive/folders/0BwUMap4uHX13NG9LWklMTUhYcjA?usp=sharing
+  
+  https://drive.google.com/drive/folders/0ByKz9g4rBicrd0tSQlZnZXZjbVE?usp=sharing
+  
+  https://drive.google.com/drive/folders/0BwUMap4uHX13MXZhdW1qTnJxYms?usp=sharing
+  
+  https://drive.google.com/drive/folders/0BwUMap4uHX13QldmTE1ZX0JmYms?usp=sharing
 
   dulieucuatoi002@gmail.com  Free 1.7GB (tranqudat@gmail.com) (DVD Believe + DVD Songs from the Heart + Audio Celtic Woman)
 
@@ -1525,42 +1533,42 @@ B5: khi redy đã báo sáng redy thì ta rút hết tay ra. cho hộp mực và
 
 # [ Đạp xe
 
-Đường Nguyễn Cơ Thạch 4.10km
+Đường Nguyễn Cơ Thạch 4.17km
 
-Đường Lê Đức Thọ 5.05km
+Đường Lê Đức Thọ 5.12km
 
-Cầu vượt Mai Dịch 5.54km
+Cầu vượt Mai Dịch 5.26km
 
-Đường vòng Lê Đức Thọ -> Nguyễn Cơ Thạch 6.05km
+Phương Canh -> Hết đường mới 5.67km
 
-Cầu vượt Mai Dịch -> UBND Quận Bắc Từ Liêm 6.30 km
+Đường vòng Lê Đức Thọ -> Nguyễn Cơ Thạch 6.11km
 
-Sân vận động Mĩ Đình 6.95km
+Cầu vượt Mai Dịch -> UBND Quận Bắc Từ Liêm 6.65km
 
-Hết đường mới 7.28km
+Sân vận động Mĩ Đình 6.67km
 
-Cầu vượt Mai Dịch -> Đầu đường Văn Tiến Dũng 7.30km
+Bến xe Mĩ Đình 7.55km
 
-Bến xe Mĩ Đình 7.51km
+Phương Canh -> Đường mới -> Quốc lộ 70 -> Đường 32 7.55km
+
+Cầu vượt Mai Dịch -> Đầu đường Văn Tiến Dũng 7.70km
 
 Ngã tư Nhổn 8.13km
 
-Liên đoàn bóng đá Việt Nam VFF 8.23km
-
-Đường mới -> Quốc lộ 70 -> Đường 32 8.33km
+Liên đoàn bóng đá Việt Nam VFF 8.29km
 
 Hết đường Văn Tiến Dũng 9.01km
 
-Vòng xoay ra Kengnam 9.49km
+Vòng xoay Viện Huyết học 9.59km
 
-Vòng xoay Viện Huyết học 9.49km
+Trường TH Tây Tựu B 9.60km
 
-Hồ nước trên đường Tây Tựu gần ngã tư Nhổn 9.54km
+Vòng xoay ra Kengnam 9.74km
 
-Trường TH Tây Tựu B 9.62km
+Hồ nước trên đường Tây Tựu gần ngã tư Nhổn 9.76km
 
-Nội thất Kim Hoàng Gia 10.05km
+Nội thất Kim Hoàng Gia 10.12km
 
-Đại lộ Thăng Long 11.29km
+Đại lộ Thăng Long 11.31km
 
 ]
