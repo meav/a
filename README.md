@@ -216,13 +216,17 @@ http://www.hexagora.com/en_dw_davperf.asp
 
 http://www.bandisoft.com/honeyview/
 
-http://www.revouninstaller.com/revo_uninstaller_free_download.html
+https://geekuninstaller.com/download
+
+[ Bộ gõ Tiếng Việt
 
 https://vozforums.com/showthread.php?t=6882941
 
 https://drive.google.com/drive/folders/12DbnnsOs89D79loTZ_rTuU696qZZPB1_
 
 http://unikey.org/bdownload.php
+
+]
 
 [ Notepad
 
@@ -403,6 +407,8 @@ http://www.rarlab.com/download.htm
 http://www.7-zip.org/
 
 [ PDF
+
+http://www.stdutility.com/stduviewer.html
 
 https://www.tracker-software.com/product/pdf-xchange-viewer
 
