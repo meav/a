@@ -1,14 +1,6 @@
-body > else > div:nth-child(29) > div > div > table:nth-child(10) > tbody > tr > td:nth-child(1) > table:nth-child(2) > tbody > tr > td:nth-child(2) > div.pagenav > table > tbody > tr > td:nth-child(4),
-body > else > div:nth-child(29) > div > div > table:nth-child(10) > tbody > tr > td:nth-child(1) > table:nth-child(2) > tbody > tr > td:nth-child(2) > div.pagenav > table > tbody > tr > td:nth-child(5),
-body > else > div:nth-child(29) > div > div > table:nth-child(10) > tbody > tr > td:nth-child(1) > table:nth-child(2) > tbody > tr > td:nth-child(2) > div.pagenav > table > tbody > tr > td:nth-child(7),
-body > else > div:nth-child(29) > div > div > table:nth-child(10) > tbody > tr > td:nth-child(1) > table:nth-child(2) > tbody > tr > td:nth-child(2) > div.pagenav > table > tbody > tr > td:nth-child(6),
-body > else > div:nth-child(29) > div > div > table:nth-child(10) > tbody > tr > td:nth-child(1) > table:nth-child(2) > tbody > tr > td:nth-child(2) > div.pagenav > table > tbody > tr > td:nth-child(15),
-body > else > div:nth-child(29) > div > div > table:nth-child(10) > tbody > tr > td:nth-child(1) > table:nth-child(2) > tbody > tr > td:nth-child(2) > div.pagenav > table > tbody > tr > td:nth-child(16),
-body > else > div:nth-child(29) > div > div > table:nth-child(10) > tbody > tr > td:nth-child(1) > table:nth-child(2) > tbody > tr > td:nth-child(2) > div.pagenav > table > tbody > tr > td:nth-child(17),
-body > else > div:nth-child(29) > div > div > table:nth-child(10) > tbody > tr > td:nth-child(1) > table:nth-child(2) > tbody > tr > td:nth-child(2) > div.pagenav > table > tbody > tr > td:nth-child(18)
-{
-    display: none;
-  }
+#js_2 {min-width: 100% !important; padding-left: 200px ! important;}
+
+#entity_sidebar, #u_0_l {display:none !important;}
     
 # [ Get link
 
