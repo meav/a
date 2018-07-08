@@ -1,6 +1,6 @@
-#js_2 {min-width: 100% !important; padding-left: 200px ! important;}
+https://userstyles.org/styles/126245/facebook-w-o-login-nag
 
-#entity_sidebar, #u_0_l {display:none !important;}
+https://userstyles.org/styles/141299/facebook-clean-and-roboto
     
 # [ Get link
 
