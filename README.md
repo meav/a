@@ -2,43 +2,43 @@ https://userstyles.org/styles/126245/facebook-w-o-login-nag
 
 IMG[alt="Reply"], #btn-migrate-to-voz {display:none !important}
 
-div.pagenav > table > tbody > tr > td:nth-child(1) > a {font-size: 20pt !important}
+div.pagenav > table > tbody > tr > td:nth-child(1) > a,
 
-div.pagenav > table > tbody > tr > td:nth-child(2) > a {font-size: 20pt !important}
+div.pagenav > table > tbody > tr > td:nth-child(2) > a,
 
-div.pagenav > table > tbody > tr > td:nth-child(3) > a {font-size: 20pt !important}
+div.pagenav > table > tbody > tr > td:nth-child(3) > a,
 
-div.pagenav > table > tbody > tr > td:nth-child(4) > a {font-size: 20pt !important}
+div.pagenav > table > tbody > tr > td:nth-child(4) > a,
 
-div.pagenav > table > tbody > tr > td:nth-child(5) > a {font-size: 20pt !important}
+div.pagenav > table > tbody > tr > td:nth-child(5) > a,
 
-div.pagenav > table > tbody > tr > td:nth-child(6) > a {font-size: 20pt !important}
+div.pagenav > table > tbody > tr > td:nth-child(6) > a,
 
-div.pagenav > table > tbody > tr > td:nth-child(7) > a {font-size: 20pt !important}
+div.pagenav > table > tbody > tr > td:nth-child(7) > a,
 
-div.pagenav > table > tbody > tr > td:nth-child(8) > a {font-size: 20pt !important}
+div.pagenav > table > tbody > tr > td:nth-child(8) > a,
 
-div.pagenav > table > tbody > tr > td:nth-child(9) > a {font-size: 20pt !important}
+div.pagenav > table > tbody > tr > td:nth-child(9) > a,
 
-div.pagenav > table > tbody > tr > td:nth-child(10) > a {font-size: 20pt !important}
+div.pagenav > table > tbody > tr > td:nth-child(10) > a,
 
-div.pagenav > table > tbody > tr > td:nth-child(11) > a {font-size: 20pt !important}
+div.pagenav > table > tbody > tr > td:nth-child(11) > a,
 
-div.pagenav > table > tbody > tr > td:nth-child(12) > a {font-size: 20pt !important}
+div.pagenav > table > tbody > tr > td:nth-child(12) > a,
 
-div.pagenav > table > tbody > tr > td:nth-child(13) > a {font-size: 20pt !important}
+div.pagenav > table > tbody > tr > td:nth-child(13) > a,
 
-div.pagenav > table > tbody > tr > td:nth-child(14) > a {font-size: 20pt !important}
+div.pagenav > table > tbody > tr > td:nth-child(14) > a,
 
-div.pagenav > table > tbody > tr > td:nth-child(15) > a {font-size: 20pt !important}
+div.pagenav > table > tbody > tr > td:nth-child(15) > a,
 
-div.pagenav > table > tbody > tr > td:nth-child(16) > a {font-size: 20pt !important}
+div.pagenav > table > tbody > tr > td:nth-child(16) > a,
 
-div.pagenav > table > tbody > tr > td:nth-child(17) > a {font-size: 20pt !important}
+div.pagenav > table > tbody > tr > td:nth-child(17) > a,
 
-div.pagenav > table > tbody > tr > td:nth-child(18) > a {font-size: 20pt !important}
+div.pagenav > table > tbody > tr > td:nth-child(18) > a,
 
-div.pagenav > table > tbody > tr > td:nth-child(19) > a {font-size: 20pt !important}
+div.pagenav > table > tbody > tr > td:nth-child(19) > a,
 
 div.pagenav > table > tbody > tr > td:nth-child(20) > a {font-size: 20pt !important}
     
