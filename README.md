@@ -1,6 +1,6 @@
 https://userstyles.org/styles/126245/facebook-w-o-login-nag
 
-IMG[alt="Reply"], #btn-migrate-to-voz {display:none !important}
+IMG[alt="Reply"], #btn-migrate-to-voz {display:none !important} ; .alt2
 
 div.pagenav > table > tbody > tr > td:nth-child(1) > a,
 
