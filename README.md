@@ -1,10 +1,10 @@
 https://userstyles.org/styles/126245/facebook-w-o-login-nag
 
-https://userstyles.org/styles/155400/minimal-wide-and-dark-facebook-v-1-1
+IMG[alt="Reply"], #btn-migrate-to-voz {display:none !important}
 
-https://userstyles.org/styles/62478/facebook-with-custom-font-size
+.pagenav > table {height: 55px !important; letter-spacing: 22px !important;}
 
-https://userstyles.org/styles/137191/facebook-wide-material-no-ad-fixed-aug-2017
+div.pagenav > table > tbody > tr > td:nth-child(1) {letter-spacing: 2px !important}
     
 # [ Get link
 
