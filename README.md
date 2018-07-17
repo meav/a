@@ -2,9 +2,45 @@ https://userstyles.org/styles/126245/facebook-w-o-login-nag
 
 IMG[alt="Reply"], #btn-migrate-to-voz {display:none !important}
 
-.pagenav > table {height: 55px !important; letter-spacing: 22px !important;}
+div.pagenav > table > tbody > tr > td:nth-child(1) > a {font-size: 20pt !important}
 
-div.pagenav > table > tbody > tr > td:nth-child(1) {letter-spacing: 2px !important}
+div.pagenav > table > tbody > tr > td:nth-child(2) > a {font-size: 20pt !important}
+
+div.pagenav > table > tbody > tr > td:nth-child(3) > a {font-size: 20pt !important}
+
+div.pagenav > table > tbody > tr > td:nth-child(4) > a {font-size: 20pt !important}
+
+div.pagenav > table > tbody > tr > td:nth-child(5) > a {font-size: 20pt !important}
+
+div.pagenav > table > tbody > tr > td:nth-child(6) > a {font-size: 20pt !important}
+
+div.pagenav > table > tbody > tr > td:nth-child(7) > a {font-size: 20pt !important}
+
+div.pagenav > table > tbody > tr > td:nth-child(8) > a {font-size: 20pt !important}
+
+div.pagenav > table > tbody > tr > td:nth-child(9) > a {font-size: 20pt !important}
+
+div.pagenav > table > tbody > tr > td:nth-child(10) > a {font-size: 20pt !important}
+
+div.pagenav > table > tbody > tr > td:nth-child(11) > a {font-size: 20pt !important}
+
+div.pagenav > table > tbody > tr > td:nth-child(12) > a {font-size: 20pt !important}
+
+div.pagenav > table > tbody > tr > td:nth-child(13) > a {font-size: 20pt !important}
+
+div.pagenav > table > tbody > tr > td:nth-child(14) > a {font-size: 20pt !important}
+
+div.pagenav > table > tbody > tr > td:nth-child(15) > a {font-size: 20pt !important}
+
+div.pagenav > table > tbody > tr > td:nth-child(16) > a {font-size: 20pt !important}
+
+div.pagenav > table > tbody > tr > td:nth-child(17) > a {font-size: 20pt !important}
+
+div.pagenav > table > tbody > tr > td:nth-child(18) > a {font-size: 20pt !important}
+
+div.pagenav > table > tbody > tr > td:nth-child(19) > a {font-size: 20pt !important}
+
+div.pagenav > table > tbody > tr > td:nth-child(20) > a {font-size: 20pt !important}
     
 # [ Get link
 
