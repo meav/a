@@ -1,46 +1,10 @@
-https://userstyles.org/styles/126245/facebook-w-o-login-nag
+@-moz-document domain("facebook.com") { 2 * { font-size: 30px !important; line-height: 1.5 !important } 3 }
 
-IMG[alt="Reply"], #btn-migrate-to-voz {display:none !important} ; .alt2
+@-moz-document domain("facebook.com") { 2 @namespace url(http://www.w3.org/1999/xhtml); 3 ._5hn6, .generic_dialog_modal, .generic_dialog_fixed_overflow, ._67m7 {display:none !important;} 4 }
 
-div.pagenav > table > tbody > tr > td:nth-child(1) > a,
+@-moz-document url-prefix("https://forums.voz.vn/showthread.php?") { 2 .alt1, .alt2 { max-width: 850px !important; font-size: 40pt !important; line-height: 1.5 !important; } 3 ​ 4 IMG[alt="Reply"], #btn-migrate-to-voz {display:none !important} 5 ​ 6 div.pagenav > table > tbody > tr > td:nth-child(1) > a, 7 ​ 8 div.pagenav > table > tbody > tr > td:nth-child(2) > a, 9 ​ 10 div.pagenav > table > tbo
 
-div.pagenav > table > tbody > tr > td:nth-child(2) > a,
 
-div.pagenav > table > tbody > tr > td:nth-child(3) > a,
-
-div.pagenav > table > tbody > tr > td:nth-child(4) > a,
-
-div.pagenav > table > tbody > tr > td:nth-child(5) > a,
-
-div.pagenav > table > tbody > tr > td:nth-child(6) > a,
-
-div.pagenav > table > tbody > tr > td:nth-child(7) > a,
-
-div.pagenav > table > tbody > tr > td:nth-child(8) > a,
-
-div.pagenav > table > tbody > tr > td:nth-child(9) > a,
-
-div.pagenav > table > tbody > tr > td:nth-child(10) > a,
-
-div.pagenav > table > tbody > tr > td:nth-child(11) > a,
-
-div.pagenav > table > tbody > tr > td:nth-child(12) > a,
-
-div.pagenav > table > tbody > tr > td:nth-child(13) > a,
-
-div.pagenav > table > tbody > tr > td:nth-child(14) > a,
-
-div.pagenav > table > tbody > tr > td:nth-child(15) > a,
-
-div.pagenav > table > tbody > tr > td:nth-child(16) > a,
-
-div.pagenav > table > tbody > tr > td:nth-child(17) > a,
-
-div.pagenav > table > tbody > tr > td:nth-child(18) > a,
-
-div.pagenav > table > tbody > tr > td:nth-child(19) > a,
-
-div.pagenav > table > tbody > tr > td:nth-child(20) > a {font-size: 20pt !important}
     
 # [ Get link
 
