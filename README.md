@@ -1,11 +1,3 @@
-@-moz-document domain("facebook.com") { 2 * { font-size: 30px !important; line-height: 1.5 !important } 3 }
-
-@-moz-document domain("facebook.com") { 2 @namespace url(http://www.w3.org/1999/xhtml); 3 ._5hn6, .generic_dialog_modal, .generic_dialog_fixed_overflow, ._67m7 {display:none !important;} 4 }
-
-@-moz-document url-prefix("https://forums.voz.vn/showthread.php?") { 2 .alt1, .alt2 { max-width: 850px !important; font-size: 40pt !important; line-height: 1.5 !important; } 3 ​ 4 IMG[alt="Reply"], #btn-migrate-to-voz {display:none !important} 5 ​ 6 div.pagenav > table > tbody > tr > td:nth-child(1) > a, 7 ​ 8 div.pagenav > table > tbody > tr > td:nth-child(2) > a, 9 ​ 10 div.pagenav > table > tbo
-
-
-    
 # [ Get link
 
 https://luanxt.tk/get-link-mp3-320-lossless-vip-zing/
@@ -68,6 +60,8 @@ http://itdmusic.me/
 
 https://ifxd.bid/
 
+http://www.jpopflac.com/
+
 http://digitalk7.com/
 
 http://i.youku.com/i/UMTE2MzM0MDg=/videos?spm=a2hzp.8244740.0.0
@@ -76,7 +70,9 @@ https://vozforums.com/showthread.php?t=7089909
 
 https://ketnoidamme.vn/threads/tong-hop-nhung-ca-khuc-nhac-hoa-hay-nhat.1460/
 
-http://macgund.blogspot.com/
+https://tieba.baidu.com/p/4100164746
+
+Pass: oricon
 
 http://www.lightnovel.cn/thread-835719-1-1.html
 
@@ -207,6 +203,8 @@ https://github.com/Maximus5/ConEmu
 https://github.com/Maximus5/ConEmu/issues/1120
 
 Tweaking the CmdInit.cmd file: remove this set ConEmuPrompt0=$E[m$E[32m$E]9;8;"USERNAME"$E\@$E]9;8;"COMPUTERNAME"$E\$S
+
+https://github.com/joonro/ConEmu-Color-Themes/blob/master/themes/monokai.xml
 
 chcp utf-8
 
@@ -370,7 +368,7 @@ https://chrome.google.com/webstore/detail/skyload-download-of-music/fnmpfimijcop
 
 https://chrome.google.com/webstore/detail/curlwget/jmocjfidanebdlinpbcdkcmgdifblncg
 
-https://chrome.google.com/webstore/detail/baidudl/mccebkegnopjehbdbjbepjkoefnlkhef
+https://chrome.google.com/webstore/detail/baidudl/lflnkcmjnhfedgibjackiibmcdnnoadb
 
 https://chrome.google.com/webstore/detail/permanent-clipboard/hilkjcfodmbdgpadbpehimibheopoccb?hl=en
 
@@ -398,7 +396,7 @@ https://raw.githubusercontent.com/nmtrung/FMSF-3x/master/fmsf-3x-filters.txt
 
 https://easylist-downloads.adblockplus.org/easylist.txt
 
-http://abpvn.com/
+https://abpvn.com
 
 https://raw.githubusercontent.com/Yhonay/antipopads/master/popads.txt
 
@@ -490,7 +488,7 @@ https://github.com/saldl/saldl
 
 C:\Users\aa\Documents\WW1\saldl-win32\saldl-win32.exe
 
---resume --connections=10 --status-refresh-interval=1 --root-dir=C:\Users\aa\Desktop -CC [--output-filename=FNAME] [--referer=REFERER] [--cookie-file=CFILE] [ --inline-cookies=COOKIE] [--post=POST] [--raw-post=RAWPOST] [--user-agent=UA] [--custom-headers=HEADERS] [URL]
+--resume --connections=10 --status-refresh-interval=1 --root-dir=C:\Users\[username]\Desktop -CC [--output-filename=FNAME] [--referer=REFERER] [--cookie-file=CFILE] [ --inline-cookies=COOKIE] [--post=POST] [--raw-post=RAWPOST] [--user-agent=UA] [--custom-headers=HEADERS] [URL]
 
 ]
 
@@ -515,6 +513,12 @@ https://github.com/iikira/BaiduPCS-Go
 [ Mega.nz
 
 https://megatools.megous.com/
+
+]
+
+[ Gdrive
+
+https://github.com/prasmussen/gdrive
 
 ]
 
@@ -610,6 +614,10 @@ Alt + 0, 1, 6, 0
 
 http://www.thewindowsclub.com/disable-data-execution-prevention
 
+bcdedit.exe /set {current} nx AlwaysOff
+
+bcdedit.exe /set {current} nx AlwaysOn
+
 http://vnhow.vn/howto/cach-them-recycle-bin-vao-my-computer-tren-windows-vista-hoac-windows-7
 
 http://www.askvg.com/fix-input-indicator-icon-comes-back-in-taskbar-notification-area-after-restarting-windows/
@@ -631,6 +639,8 @@ http://helpdeskgeek.com/windows-7/windows-7-how-to-delete-files-protected-by-tru
 https://stackoverflow.com/questions/34218333/pyinstaller-onefile-does-not-start-on-some-windows-7-machines
 
 https://support.microsoft.com/en-us/help/2999226/update-for-universal-c-runtime-in-windows
+
+https://social.technet.microsoft.com/Forums/windows/en-US/ce6cfcc0-75f6-42a9-bbd6-e12c9b6fa44a/a-home-group-icon-has-appeared-on-my-desktop-why?forum=w7itproinstall
 
 http://sharecodeweb.net/huong-dan-khac-phuc-khong-download-duoc-tren-app-box-com/
 
@@ -684,7 +694,7 @@ https://nudegirls4u.com/
 
 http://www.redflava.com
 
-https://www.youtube.com/channel/UC9inih1P9aUuJ3xtEqyIJcQ/videos
+https://yaers.com/
 
 https://www.facebook.com/StarWarsVietNam/
 
@@ -697,6 +707,8 @@ https://lonelythorn.wordpress.com/
 http://jht.pixnet.net/blog
 
 https://vi-vn.facebook.com/ThaiTriHang/
+
+https://ln.hako.re/truyen/2793-khong-doi
 
 http://tieba.baidu.com/f?kw=凯尔特女人
 
@@ -844,7 +856,7 @@ hpduyenpham@gmail.com
 
   dulieucuatoi004@gmail.com  Free 2.15GB (tranqudat@gmail.com) (Win)
 
-  dulieucuatoi005@gmail.com  Free 1.84GB (tranqudat@gmail.com) (Nhac)
+  dulieucuatoi005@gmail.com  Free 1.75GB (tranqudat@gmail.com) (Nhac)
 
   dulieucuatoi006@gmail.com  Free 11.14GB (tranqudat@gmail.com) (Nhac Khong chu de + Thai Tri Hang)
 
@@ -919,6 +931,10 @@ http://www.redbyhbo.com/movie/?view=solomon_s_perjury_part_2_judgement
 https://redbyhbo.com/movie/?view=thread_of_lies
 
 https://redbyhbo.com/movie/?view=wood_job
+
+http://hboasia.com/HBO/en-vn/shows/the-intern-1018429/
+
+http://hboasia.com/HBO/en-vn/shows/eye-in-the-sky-1018862/
 
 http://hboasia.com/HBO/en-vn/shows/star-wars-episode-iv-a-new-hope-1023990/
 
@@ -1108,53 +1124,13 @@ https://userstyles.org/styles/102922/remove-outlook-com-ad-bar-and-reclaim-space
 
 ]
 
-[ Google
-
-@-moz-document domain(google.com.vn),domain(google.com) {
-
-.rc{
-
-background: #F3F3F3 !important; min-width: 600px !important;
-
-padding: 15px !important; border-radius: 3px !important;
-
-}
-
-.rc, .rg_ic.rg_i, #extrares , #foot  {box-shadow: 0 2.5px 2.5px #c3c3c3 !important}
-
-.f.kv._SWb{ border-bottom: #e6e6e6 1px solid ; margin-bottom: 8px !important }
-
-#main {background: #e6e6e6 !important} #appbar {background: #F3F3F3} 
-
-#foot {background: rgba(255,255,255,0.4) !important}
-
-    
-
-/*  Font chữ Title */    
-
- .r a {text-decoration:none !important; font-family: Segoe UI }
-
-.st,  ._nd, .action-menu.ab_ctl {font-size : 13.1px; font-family : Verdana}
-
-#rso {margin-top: 8px !important}    
-
-#slim_appbar {margin-top:-8px;margin-left:-12px}
-
-#resultStats{margin-top:9px !important; margin-left: 20px}
-
-.sfibbbc {min-width: 634px; margin-left: 15px}
-
-}
-
-]
-
 [ Thiendia.com
 
 @-moz-document domain("thiendia.com")
 
 {
 
-div.mainContent {min-width: 80% !important;}
+div.mainContent {min-width: 80% !important; padding-left: 100px ! important;}
 
 div.sidebar {display:none !important;}
 
@@ -1162,211 +1138,82 @@ div.sidebar {display:none !important;}
 
 ]
 
-[ Vozforums.com
+[ Vozmobile
 
-/* vOz*/
+@-moz-document url-prefix("https://forums.voz.vn/showthread.php?") {
 
-@-moz-document domain(vozforums.com) {
+.alt1, .alt2 { max-width: 850px !important; font-size: 40pt !important; line-height: 1.5 !important; }
 
-  
+IMG[alt="Reply"], #btn-migrate-to-voz {display:none !important}
 
-.page {background: #5C7099}  [style*=wrap] > STRONG {margin-right:100px} 
+div.pagenav > table > tbody > tr > td:nth-child(1) > a,
 
-[id^="thread_title"] {font-size:12.324px} A[style="white-space:nowrap"] {font-weight:700} [id^="post_message"], 
+div.pagenav > table > tbody > tr > td:nth-child(2) > a,
 
-DIV[style="font-style:italic"], .alt2[style="border:1px inset"], LI, .bodytext {font-size:13.5px; line-height:25px !important} 
+div.pagenav > table > tbody > tr > td:nth-child(3) > a,
 
-A[rel="nofollow"][href^="member.php?"] {font-size:11px} 
+div.pagenav > table > tbody > tr > td:nth-child(4) > a,
 
-/* Fix vụ tràn hình  */
+div.pagenav > table > tbody > tr > td:nth-child(5) > a,
 
-.voz-post-message img {max-width: 900px }     
+div.pagenav > table > tbody > tr > td:nth-child(6) > a,
 
-    
+div.pagenav > table > tbody > tr > td:nth-child(7) > a,
 
-/* Làm màu khung Reply */
+div.pagenav > table > tbody > tr > td:nth-child(8) > a,
 
-.panel ,  .fieldset,  .vBulletin_editor, .button, [id$=smiliebox] {background: #E4E7F5; border:none}
+div.pagenav > table > tbody > tr > td:nth-child(9) > a,
 
-.button {height: 30px} .button:hover, .imagebutton * {background: #F2F2FF} 
+div.pagenav > table > tbody > tr > td:nth-child(10) > a,
 
-/* Banh rộng khung soạn thảo */
+div.pagenav > table > tbody > tr > td:nth-child(11) > a,
 
-DIV[style="width:640px"], [type="text/javascript"] + TABLE, #vB_Editor_001_textarea {min-width:100% }
+div.pagenav > table > tbody > tr > td:nth-child(12) > a,
+
+div.pagenav > table > tbody > tr > td:nth-child(13) > a,
+
+div.pagenav > table > tbody > tr > td:nth-child(14) > a,
+
+div.pagenav > table > tbody > tr > td:nth-child(15) > a,
+
+div.pagenav > table > tbody > tr > td:nth-child(16) > a,
+
+div.pagenav > table > tbody > tr > td:nth-child(17) > a,
+
+div.pagenav > table > tbody > tr > td:nth-child(18) > a,
+
+div.pagenav > table > tbody > tr > td:nth-child(19) > a,
+
+div.pagenav > table > tbody > tr > td:nth-child(20) > a
+
+{font-size: 40pt !important;}
 
 }
 
 ]
 
-[ Vozmobile
+[ Facebook Desktop Mobile
 
-[ https://userstyles.org/styles/75340/vozforums-com
+[ 
+
+https://userstyles.org/styles/126245/facebook-w-o-login-nag
+
+@-moz-document domain("facebook.com") { 
 
 @namespace url(http://www.w3.org/1999/xhtml);
 
-@-moz-document domain("vozforums.com")
-{
-  div.page
-  {
-    max-width: 100%!important;
-    width: 100%!important;
-  }
+3 ._5hn6, .generic_dialog_modal, .generic_dialog_fixed_overflow, ._67m7 {display:none !important;} 
 
-  td[width="160"]
-  {
-    display: none!important;
-  }
-
-  .middleads, #header_right_cell, tr td[colspan="5"] div, div[width="970"], #google_flash_inline_div, #google_flash_inline_div, IMG[width="140"][height="840"],div[style="width: 760px; height: 486px; margin: 0 auto; margin-bottom: 10px; overflow: hidden;"],div[style="height: 80px"]
-  {
-    display: none!important;
-  }
-
-  form div.clearfix
-  {
-    max-width: 100%!important;
-    width: 100%!important;
-  }
-
-  iframe
-  {
-    display: none!important;
-  }
 }
 
 ]
 
-[ https://userstyles.org/styles/139476/voz-mobile
+[
 
-@-moz-document domain(vozforums.com)
-{
-  [id^=div-gpt-ad],
-  [id^=google_ads_div],
-  .middleads,
-  [id^=ads_zone],
-  div.page > div > div > table > tbody > tr > td[valign=top]:nth-child(2),
-  body > div:nth-child(3) > form,
-  #header_right_cell
-  {
-    display: none;
-  }
+@-moz-document domain("facebook.com") { 
 
-  .page, #neo_logobar,
-  div[style*='width: 970px'],
-  div.page table > tbody > tr > td > div[style*='width:728px']
-  {
-    min-width: 0px !important;
-    width: 100% !important;
-  }
+* { font-size: 30px !important; line-height: 1.5 !important } 
 
-  div.page > div > div > table > tbody > tr > td[valign=top] > *
-  {
-    display: none;
-  }
-
-  div.page > div > div > table > tbody > tr > td[valign=top] > form,
-  div.page > div > div > table > tbody > tr > td[valign=top] > table.tborder
-  {
-    display: block;
-  }
-
-  div.page > div > div > table > tbody > tr > td[valign=top] > .vbmenu_popup
-  {
-    display: inherit;
-  }
-
-  div > .tborder > table > tbody > tr > td.vbmenu_control
-  {
-    display: block;
-  }
-
-  div.page > div > div > table > tbody > tr > td[valign=top] > form[action="forumdisplay.php"] > table > tbody
-  {
-    display: flex;
-    flex-direction: column;
-  }
-
-  div.page > div > div > table > tbody > tr > td[valign=top] > form[action="forumdisplay.php"] > table > tbody > tr
-  {
-    display: flex;
-    flex-direction: column;
-  }
-
-  #threadslist > tbody
-  {
-    display: none;
-  }
-
-  #threadslist > tbody[id^='threadbits_forum']
-  {
-    display: block;
-    width: 100%;
-    display: flex;
-    flex-direction: column;
-  }
-
-  [id^='threadbits_forum_'] > tr
-  {
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: column;
-    border-bottom: 1px solid #666;
-  }
-
-  [id^='threadbits_forum_'] > tr > td
-  {
-    flex-grow: 1;
-    order: 2;
-  }
-
-  [id^='threadbits_forum_'] > tr > td[id^=td_threadstatusicon_],
-  [id^='threadbits_forum_'] > tr > td[id^=td_threadtitle_]
-  {
-    order: 1;
-  }
-
-  a[href*='misc.php?do=whoposted']::before
-  {
-    content: "Replies: ";
-  }
-
-  [id^='threadbits_forum_'] > tr > td:last-child:before
-  {
-    content: "Views: ";
-  }
-  /* Font-size adjust */
-  body, td, th, p, li, a.smallfont, div, a, .navbar strong, font[size="2"]
-  {
-    font-size: 35px;
-  }
-
-  .vbmenu_control
-  {
-    /*font-weight: normal !important;
-    font-size: 35px !important;*/;
-  }
-
-  #threadslist > tbody:first-child *
-  {
-    font-size: 25px !important;
-  }
-
-  .thead[width="150"], td[id^="td_threadtitle_"] + td > div, a[href^="member.php?find"]
-  {
-    white-space: normal !important;
-    font-size: 20px !important;
-  }
-
-  div.smallfont[style="text-align: right; white-space: nowrap;"]
-  {
-    white-space: normal !important;
-  }
-
-  img[src="images/buttons/lastpost.gif"], img[src="images/buttons/firstnew.gif"]
-  {
-    width: 25px !important;
-    padding: 10px !important;
-  }
 }
 
 ]
