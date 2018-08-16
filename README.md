@@ -14,13 +14,13 @@ https://weibomiaopai.com/download-video-parser.php
 
 http://txt.do/53bv4
 
-https://github.com/meav/text
+https://github.com/meav/a
 
 ]
 
 # [ Linh tinh
 
-http://www.geodistance.com/
+http://www.mappedometer.com
 
 http://www.oxfordlearnersdictionaries.com
 
@@ -328,7 +328,7 @@ https://addons.palemoon.org/extensions/ > Greasemonkey for Pale Moon
 
 https://addons.mozilla.org/en-US/firefox/addon/s3menu-wizard/
 
-https://addons.mozilla.org/en-US/firefox/addon/stylish/
+https://addons.palemoon.org/addon/stylem/
 
 https://addons.palemoon.org/addon/tgsidebar/
 
@@ -348,6 +348,8 @@ https://www.google.com/intl/en/chrome/browser/desktop/index.html?standalone=1&pl
 
 http://www.slimjet.com/
 
+https://www.centbrowser.com/history.html
+
 start UCbrowser.exe --user-data-dir="Portable"
 
 --user-data-dir= --ppapi-flash-path= --allow-outdated-plugins
@@ -362,6 +364,8 @@ https://chrome.google.com/webstore/detail/last-tab/nggjcpipkefkgldicofgmealjndjn
 
 https://chrome.google.com/webstore/detail/closed-tabs/eonffnnfmbfnmjpaiigdclmfelolemah
 
+https://chrome.google.com/webstore/detail/c%E1%BB%91c-c%E1%BB%91c-savior/elgmpbjdccghkimjofpnngkmjcjfkleg
+
 https://chrome.google.com/webstore/detail/bulk-media-downloader/ehfdcgbfcboceiclmjaofdannmjdeaoi?hl=en
 
 https://chrome.google.com/webstore/detail/skyload-download-of-music/fnmpfimijcopbiaiobinamadmnmhckmp
@@ -374,7 +378,7 @@ https://chrome.google.com/webstore/detail/permanent-clipboard/hilkjcfodmbdgpadbp
 
 https://chrome.google.com/webstore/detail/violent-monkey/jinjaccalgkegednnccohejagnlnfdag
 
-https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe
+https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne
 
 https://chrome.google.com/webstore/detail/context-menu-search/ocpcmghnefmdhljkoiapafejjohldoga?hl=en-US
 
@@ -389,6 +393,8 @@ http://www.xuldev.org/firegestures/
 [ Adblock
 
 https://github.com/gorhill/uBlock#installation
+
+facebook.com###pagelet_growth_expanding_cta
 
 https://raw.githubusercontent.com/nmtrung/FMSF-2.0/master/fmsf_2.0.txt
 
@@ -556,6 +562,8 @@ http://www.etree.org/shnutils/shntool/
 
 ]
 
+https://portableapps.com/apps/music_video/picard-portable
+
 http://www.aegisub.org/downloads/
 
 https://www.tncnonline.com.vn/Pages/tools.aspx
@@ -688,13 +696,17 @@ http://browserfame.com/723/spoof-user-agent-string-opera-12-wahoo
 
 http://findfb.net/Search-Post.aspx
 
-http://emhi-vianh.blogspot.com/
+https://popjav.com/category/censored
 
 https://nudegirls4u.com/
 
 http://www.redflava.com
 
 https://yaers.com/
+
+https://www.facebook.com/ACMilanVN/
+
+https://www.facebook.com/ludoandoden/
 
 https://www.facebook.com/StarWarsVietNam/
 
@@ -706,13 +718,11 @@ https://lonelythorn.wordpress.com/
 
 http://jht.pixnet.net/blog
 
-https://vi-vn.facebook.com/ThaiTriHang/
+https://www.facebook.com/ThaiTriHang/
 
 https://ln.hako.re/truyen/2793-khong-doi
 
 http://tieba.baidu.com/f?kw=凯尔特女人
-
-https://www.facebook.com/Celtic-Woman-Brasil-156278887741179/
 
 http://tieba.baidu.com/f?kw=新木优子
 
@@ -1133,6 +1143,22 @@ https://userstyles.org/styles/102922/remove-outlook-com-ad-bar-and-reclaim-space
 div.mainContent {min-width: 80% !important; padding-left: 100px ! important;}
 
 div.sidebar {display:none !important;}
+
+}
+
+]
+
+[ Old Reddit
+
+https://userstyles.org/styles/75410/reddit-redesigned
+
+]
+
+[ Popjav
+
+@-moz-document domain("popjav.com") {
+
+.video_list { transform: scale(1.3,1.3) ; margin-top: 600px; margin-bottom: 600px}
 
 }
 
