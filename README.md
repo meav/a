@@ -14,7 +14,7 @@ https://weibomiaopai.com/download-video-parser.php
 
 http://txt.do/53bv4
 
-https://github.com/meav/a
+https://github.com/meav/text
 
 ]
 
@@ -180,7 +180,9 @@ https://www.tenlua.vn/download/1737e42ee60a6503/celtic-woman-emerald-musical-gem
 
 C:\Users\aa\Documents\WW1\ConEmuPack.171025\ConEmu.exe /MIN /Title ConEmu
 
-cmd.exe /c start /min "" "C:\Windows\notepad.exe" "C:\Users\aa\Documents\WW1\WW2\Fan Case.txt"
+Fan case.bat
+
+cmd.exe /c start /min "" "C:\Windows\notepad.exe" "C:\Users\a\Documents\(Empty)\WW\Fan case.txt"
 
 https://social.technet.microsoft.com/Forums/windows/en-US/0462579d-780a-460a-befd-90f755e902aa/how-to-schedule-a-task-on-resume-from-sleep?forum=itprovistaapps
 
@@ -310,6 +312,8 @@ about:config > browser.tabs.tabClipWidth integer 1
 
 https://addons.palemoon.org/addon/white-moon/
 
+http://mycroftproject.com/
+
 https://addons.palemoon.org/incompatible/
 
 https://forum.palemoon.org/viewtopic.php?t=15012
@@ -335,8 +339,6 @@ https://addons.palemoon.org/addon/tgsidebar/
 https://addons.palemoon.org/addon/toolbarize-menu-button/
 
 https://addons.palemoon.org/addon/translatethis/
-
-https://addons.palemoon.org/addon/add-to-search-bar/
 
 ]
 
@@ -441,6 +443,8 @@ http://www.jaist.ac.jp/~hoangle/filesj/
 https://www.stardock.com/products/groupy/
 
 http://ejie.me/
+
+https://github.com/ONLYOFFICE/DesktopEditors
 
 http://www.extendoffice.com/download/office-tab-free-edition.html
 
@@ -1090,45 +1094,23 @@ https://userstyles.org/styles/102922/remove-outlook-com-ad-bar-and-reclaim-space
 
 {
 
-    /* For old Outlook.com */
+/* For old Outlook.com */
 
-  #RightRailContainer
+  #RightRailContainer { display: none; }
 
-  {
+  .WithRightRail { right: 0 !important; }
 
-    display: none;
+/* For new Outlook.com */
 
-  }
+  ._n_h { display: none; width: 0; }
 
-  .WithRightRail
+  #primaryContainer div[style*="right: 165px;"] { right: 0 !important; }
+  
+/* For Outlook.com Beta */
 
-  {
+#app > div > div:nth-child(2) > div > div > div:nth-child(4) {display: none}
 
-    right: 0 !important;
-
-  }
-
-    
-
-    /* For new Outlook.com */
-
-  ._n_h
-
-  {
-
-    display: none;
-
-    width: 0;
-
-  }
-
-  #primaryContainer div[style*="right: 165px;"]
-
-  {
-
-    right: 0 !important;
-
-  }
+#app > div > div:nth-child(2) > div > div:nth-child(2) {display: none}
 
 }
 
