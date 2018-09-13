@@ -102,6 +102,8 @@ https://www.facebook.com/hashtag/ebolicebook
 
 https://www.facebook.com/hashtag/ebolicelite
 
+https://www.wattpad.com/user/gabriel931000
+
 [ e-thuvien
 
 https://tenlua.vn/download/0b37e62de3086e/e-thuvien-part01
@@ -450,6 +452,14 @@ http://www.extendoffice.com/download/office-tab-free-edition.html
 
 http://www.java.com/en/download/manual.jsp
 
+https://sourceforge.net/projects/winpython/files/
+
+https://github.com/JimmXinu/FanFicFare
+
+https://github.com/sdvcrx/pan-baidu-download
+
+https://github.com/PeterDing/aget
+
 [ mpv
 
 https://mpv.srsfckn.biz/
@@ -550,9 +560,13 @@ http://www.internetdownloadmanager.com/idmmzcc/idmmzcc.xpi
 
 ]
 
+https://www.ffmpeg.org/download.html
+
 https://github.com/rg3/youtube-dl
 
-https://www.ffmpeg.org/download.html
+https://github.com/iawia002/annie
+
+https://github.com/zhangn1985/ykdl
 
 https://github.com/soimort/you-get
 
@@ -697,6 +711,8 @@ http://banlong.us/threads/huong-dan-build-ebook-da-dinh-dang-azw-epub-mobi-prc.1
 http://quantrimang.com/trai-nghiem-che-do-duyet-web-mobile-tren-may-tinh-94260
 
 http://browserfame.com/723/spoof-user-agent-string-opera-12-wahoo
+
+http://spys.one/free-proxy-list/CN/
 
 http://findfb.net/Search-Post.aspx
 
@@ -866,7 +882,7 @@ hpduyenpham@gmail.com
 
   dulieucuatoi002@gmail.com  Free 1.7GB (tranqudat@gmail.com) (DVD Believe + DVD Songs from the Heart + Audio Celtic Woman)
 
-  dulieucuatoi003@gmail.com  Free 4.1GB (tranqudat@gmail.com) (Phan mem)
+  dulieucuatoi003@gmail.com  Free 2.39GB (tranqudat@gmail.com) (Phan mem)
 
   dulieucuatoi004@gmail.com  Free 2.15GB (tranqudat@gmail.com) (Win)
 
