@@ -1,7 +1,3 @@
-  milanistavietnam1991@gmail.com (tranqudat@outlook.com)
-
-  vozvietnam@gmail.com (tranqudat@outlook.com)
-
 # [ Get link
 
 https://luanxt.tk/get-link-mp3-320-lossless-vip-zing/
@@ -25,6 +21,10 @@ https://github.com/meav/text
 # [ Linh tinh
 
 http://www.replaymatches.com/
+
+https://www.fotmob.com/teams/8564/fixtures/
+
+http://bongdaso.vn/AC_Milan-_Club.aspx?ClubID=22&Data=4&Name=AC+Milan&LeagueID=3&SeasonID=111
 
 http://www.mappedometer.com
 
@@ -190,7 +190,11 @@ C:\Users\aa\Documents\WW1\ConEmuPack.171025\ConEmu.exe /MIN /Title ConEmu
 
 Fan case.bat
 
+@Echo off
+
 cmd.exe /c start /min "" "C:\Windows\notepad.exe" "C:\Users\a\Documents\(Empty)\WW\Fan case.txt"
+
+explorer "D:\Me Doanh\TH Tu Liem"
 
 https://social.technet.microsoft.com/Forums/windows/en-US/0462579d-780a-460a-befd-90f755e902aa/how-to-schedule-a-task-on-resume-from-sleep?forum=itprovistaapps
 
@@ -225,6 +229,8 @@ alias e="C:\Users\aa\Documents\WW1\CubicExplorerPortable\CubicExplorerPortable.e
 https://github.com/vatterspun/cubicexplorer
 
 http://www.ltr-data.se/opencode.html/#ImDisk
+
+https://sourceforge.net/projects/imdisk-toolkit/
 
 http://www.mitec.cz/tmx.html
 
@@ -317,6 +323,8 @@ https://www.palemoon.org/palemoon-portable.shtml
 about:config > browser.tabs.closeWindowWithLastTab boolean false
 
 about:config > browser.tabs.tabClipWidth integer 1
+
+about:config > browser.link.open_newwindow.restriction integer 0
 
 https://addons.palemoon.org/addon/white-moon/
 
@@ -689,6 +697,8 @@ http://laptopvaiochinhhang.blogspot.com/2013/01/huong-dan-recovery-sony-vaio-win
 https://support.office.com/en-us/article/Uninstall-Office-2013-Office-2016-or-Office-365-from-a-PC-9dd49b83-264a-477a-8fcc-2fdf5dbf61d8
 
 http://support.microsoft.com/kb/971179
+
+https://support.microsoft.com/en-us/help/822005/how-to-reset-user-options-and-registry-settings-in-word
 
 http://gregmaxey.mvps.org/word_tip_pages/customize_ribbon_main.html
 
