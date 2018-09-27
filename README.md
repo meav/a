@@ -3,10 +3,10 @@
 15 GB
 total storage
 
-13 GB
-86% used
+8,83 GB
+Đã sử dụng 58%
 15 GB
-total storage
+tổng dung lượng
 
 # [ Get link
 
