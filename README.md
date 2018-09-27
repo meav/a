@@ -3,7 +3,10 @@
 15 GB
 total storage
 
-
+13 GB
+86% used
+15 GB
+total storage
 
 # [ Get link
 
