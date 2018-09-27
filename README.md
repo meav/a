@@ -1,3 +1,10 @@
+13 GB
+86% used
+15 GB
+total storage
+
+
+
 # [ Get link
 
 https://luanxt.tk/get-link-mp3-320-lossless-vip-zing/
