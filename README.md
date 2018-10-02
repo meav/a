@@ -24,7 +24,7 @@ http://www.replaymatches.com/
 
 https://www.fotmob.com/teams/8564/fixtures/
 
-http://bongdaso.vn/AC_Milan-_Club.aspx?ClubID=22&Data=4&Name=AC+Milan&LeagueID=3&SeasonID=111
+https://www.transfermarkt.com/ac-mailand/alletransfers/verein/5
 
 http://www.mappedometer.com
 
