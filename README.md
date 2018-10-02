@@ -1,13 +1,3 @@
-13 GB
-86% used
-15 GB
-total storage
-
-8,83 GB
-Đã sử dụng 58%
-15 GB
-tổng dung lượng
-
 # [ Get link
 
 https://luanxt.tk/get-link-mp3-320-lossless-vip-zing/
@@ -272,102 +262,6 @@ http://free.kaspersky.com/
 
 http://z-o-o-m.eu/
 
-https://otter-browser.org/
-
-[ Firefox
-
-https://ftp.mozilla.org/pub/firefox/
-
-https://www.mozilla.org/en-US/firefox/organizations/all/
-
-about:config > browser.tabs.closeWindowWithLastTab boolean false
-
-               extensions.firebug.hideDefaultInspector boolean true
-
-			   devtools.inspector.enabled boolean false
-
-			   browser.tabs.tabClipWidth integer 1
-
-https://addons.mozilla.org/en-US/firefox/addon/adblock-plus/
-
-https://addons.mozilla.org/en-US/firefox/addon/flashgot/
-
-https://addons.mozilla.org/en-US/firefox/addon/downthemall/
-
-https://addons.mozilla.org/en-US/firefox/addon/righttoclick/
-
-https://addons.mozilla.org/vi/firefox/addon/clippings/
-
-https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/
-
-https://greasyfork.org/en/scripts/23635-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E7%9B%B4%E6%8E%A5%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B
-
-https://greasyfork.org/vi/scripts/16204-google-translator-tooltip-expanded-fork
-
-https://vozforums.com/showpost.php?p=60840624&postcount=104961
-
-https://addons.mozilla.org/en-US/firefox/addon/stylish/
-
-https://addons.mozilla.org/en-US/firefox/addon/context-search/
-
-https://addons.mozilla.org/en-US/firefox/addon/add-to-search-bar/
-
-https://addons.mozilla.org/en-US/firefox/addon/cookie-wizard-with-whitelist/
-
-http://www.xuldev.org/firegestures/
-
-https://addons.mozilla.org/en-US/firefox/addon/translate-this/
-
-https://addons.mozilla.org/en-US/firefox/addon/dictionary-anywhere/
-
-https://addons.mozilla.org/en-US/firefox/addon/dom-inspector-6622/
-
-https://addons.mozilla.org/en-US/firefox/addon/element-inspector/
-
-]
-
-[ Palemoon
-
-https://www.palemoon.org/palemoon-portable.shtml
-
-about:config > browser.tabs.closeWindowWithLastTab boolean false
-
-about:config > browser.tabs.tabClipWidth integer 1
-
-about:config > browser.link.open_newwindow.restriction integer 0
-
-https://addons.palemoon.org/addon/white-moon/
-
-http://mycroftproject.com/
-
-https://addons.palemoon.org/incompatible/
-
-https://forum.palemoon.org/viewtopic.php?t=15012
-
-https://forum.palemoon.org/viewtopic.php?t=14666
-
-https://addons.mozilla.org/en-US/firefox/addon/dom-inspector-6622/
-
-https://addons.mozilla.org/en-US/firefox/addon/element-inspector/
-
-http://www.xuldev.org/firegestures/
-
-https://addons.mozilla.org/en-US/firefox/addon/flashgot/
-
-https://addons.palemoon.org/extensions/ > Greasemonkey for Pale Moon
-
-https://addons.mozilla.org/en-US/firefox/addon/s3menu-wizard/
-
-https://addons.palemoon.org/addon/stylem/
-
-https://addons.palemoon.org/addon/tgsidebar/
-
-https://addons.palemoon.org/addon/toolbarize-menu-button/
-
-https://addons.palemoon.org/addon/translatethis/
-
-]
-
 [ Chromium
 
 https://chromium.woolyss.com/
@@ -416,8 +310,6 @@ http://www.xuldev.org/firegestures/
 
 ]
 
-"C:\Program Files\Internet Explorer\iexplore.exe" -private
-
 [ Adblock
 
 https://github.com/gorhill/uBlock#installation
@@ -435,10 +327,6 @@ https://abpvn.com
 https://raw.githubusercontent.com/Yhonay/antipopads/master/popads.txt
 
 ]
-
-https://helpx.adobe.com/flash-player/kb/archived-flash-player-versions.html
-
-http://kmeleonbrowser.org/forum/read.php?1,114856,page=1
 
 http://www.qbittorrent.org/download.php
 
@@ -890,13 +778,13 @@ hpduyenpham@gmail.com
 
   milanistavietnam@gmail.com (tranqudat@outlook.com)
 
-  milanistavietnam1991@gmail.com (tranqudat@outlook.com)
+  milanistavietnam1991@gmail.com Free 2GB (tranqudat@outlook.com) (Celtic Woman - Emerald Musical Gems 2013 Blu-ray 1080i AVC DTS-HD 5.1.iso.001)
 
-  vozvietnam@gmail.com (tranqudat@outlook.com)
+  vozvietnam@gmail.com Free 6.17GB (tranqudat@outlook.com) (Celtic Woman - Emerald Musical Gems 2013 Blu-ray 1080i AVC DTS-HD 5.1.iso.002)
 
   khongcanlakhongcan@gmail.com (tranqudat@outlook.com)
 
-  dulieucuatoi001@gmail.com  Free 1.57GB (tranqudat@gmail.com) (Tong hop + Have a song on your lips)
+  dulieucuatoi001@gmail.com  Free 1.56GB (tranqudat@gmail.com) (Tong hop + Video + Have a song on your lips)
   
   https://drive.google.com/drive/folders/0BwUMap4uHX13NG9LWklMTUhYcjA?usp=sharing
   
@@ -1016,6 +904,8 @@ UICLSID={BD84B380-8CA2-1069-AB1D-08000948F534}
 
 # [ Default app open file type
 
+[
+
 4. Ở khung bên trái, tìm tới khóa sau:
 
 HKEY_CLASSES_ROOT\.exe
@@ -1034,7 +924,29 @@ HKEY_CLASSES_ROOT\exefile\shell\open\command
 
 Xong, giờ đóng Registry Editor lại, khởi động lại máy và thử chạy file EXE xem sao.
 
-[-HKEY_CURRENT_USER\Software\Microsoft\Windows\Curre ntVersion\Explorer\FileExts\.lnk]
+]
+
+[
+
+Create a new empty file called something like foo.exe.
+
+Go to a file with the extension you want to reset and Open with.... Make sure Always use this app to open .<extension> files is ticked. Then Look for another app on this PC and choose the foo.exe you just created.
+
+Delete foo.exe.
+
+Double click the file again and dismiss the Open with box (this might not be necessary).
+
+Now open regedit and delete the following keys:
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.<extension>
+
+HKEY_CLASSES_ROOT\.<extension>
+
+HKEY_CLASSES_ROOT\Applications\foo.exe
+
+Log off and in again.
+
+]
 
 ]
 
@@ -1260,9 +1172,13 @@ https://userstyles.org/styles/126245/facebook-w-o-login-nag
 
 [
 
-@-moz-document domain("facebook.com") { 
+@-moz-document domain("m.facebook.com") {
 
-* { font-size: 30px !important; line-height: 1.5 !important } 
+body { width: 500px }
+
+html { margin-left: 300px }
+
+* { font-size: 16pt; line-height: 1.5 }
 
 }
 
@@ -1430,6 +1346,28 @@ font-size: 14pt !important }
 
 # [ Brother HL-2240D
 
+[
+
+1.Remove the drum unit and toner cartridge. Wait 1 or 2  minutes. 
+
+2.Replace the drum unit and toner cartridge into printer.
+
+3.The Drum LED continues to blink if the drum counter was not reset when you replaced the drum. We need to reset this now!
+
+4.Open the front cover of the printer
+
+5.Press and hold down Go button for about 4 seconds until all the LEDs light up. 
+
+6.Once all 4 LEDs are lit, release the Go button
+
+7.Close the front cover.
+
+8.Your drum is now reset.
+
+]
+
+[
+
 B1: Rút hộp mực ra khỏi máy. Mở nguồn máy in.
 
 B2: bên tay trái của mình (nhìn trực diện máy in) bên trong thân máy chỗ đường rãnh cho hộp mực vào có 1 cái lò so to bằng đầu đũa gắn nẫy (1) nhỏ, cái nẫy này nó tỳ vào bánh răng hộp mực. Các bạn lấy tay ấn vào cái nẫy đấy.
@@ -1439,6 +1377,8 @@ B3: Bên tay phải của mình (nhìn trực diện máy in) có 1 lỗ bên tr
 B4: Vừa làm B3 xong máy in sẽ khởi động cơ, lúc đầu tiếng "rồ" nhỏ, sau đó sẽ phát tiếng " rồ" lớn.-> đếm 1-2-3 với tốc độ đếm của tín hiệu đèn đường ( lúc này tiếng "rồ" lớn vẫn kêu), ta thả tay trài ra khỏi nẫy (1) với thời gian 1 giây lại giữ nẫy (1) lại -> Máy ngưng "rồ" lớn 1-2 giây rồi lại rồ lớn lần nữa -> Máy sẽ không còn tín hiệu toner.
 
 B5: khi redy đã báo sáng redy thì ta rút hết tay ra. cho hộp mực vào đậy nắp. Bật nguồn. Thế là ok.
+
+]
 
 ]
 
