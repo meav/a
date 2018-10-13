@@ -1,5 +1,3 @@
-https://docs.google.com/spreadsheets/d/1o5dmOw8jBCVGxFmlMOsKgoIKULMY7tk-TCSz67IJMc4/pubhtml#
-
 # [ Get link
 
 https://luanxt.tk/get-link-mp3-320-lossless-vip-zing/
@@ -186,6 +184,8 @@ https://www.tenlua.vn/download/1737e42ee60a6503/celtic-woman-emerald-musical-gem
 
 # [ Software
 
+https://docs.google.com/spreadsheets/d/1o5dmOw8jBCVGxFmlMOsKgoIKULMY7tk-TCSz67IJMc4/pubhtml#
+
 [ Task Scheduler
 
 C:\Users\aa\Documents\WW1\ConEmuPack.171025\ConEmu.exe /MIN /Title ConEmu
@@ -282,7 +282,7 @@ http://chrome-extension-downloader.com
 
 https://chrome.google.com/webstore/detail/newtab-clear/dgjhckfnkeboglnhifjdbpakiocmophg?hl=en
 
-https://chrome.google.com/webstore/detail/auto-history-wipe/hdgnienkeomlaeeojaibeicglpoaadnj
+https://chrome.google.com/webstore/detail/auto-history-clear/ddegdejjjlbmimagkdgmfoianoahnhia
 
 https://chrome.google.com/webstore/detail/last-tab/nggjcpipkefkgldicofgmealjndjnhba?hl=en-US
 
@@ -819,6 +819,8 @@ Yahoo
 Microsoft
 
   tranqudat@outlook.com (tranqudat@gmail.com; 0918062466)
+  
+  milanistavietnam@my365.tw
 
 Vn-zoom
 
