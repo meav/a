@@ -1,12 +1,6 @@
 # [ Get link
 
-https://luanxt.tk/get-link-mp3-320-lossless-vip-zing/
-
-https://getlinkpro.net/
-
 https://linksvip.net/
-
-https://weibomiaopai.com/download-video-parser.php
 
 ]
 
@@ -20,11 +14,29 @@ https://github.com/meav/text
 
 # [ Linh tinh
 
+[ Milan
+
 http://www.replaymatches.com/
 
 https://www.fotmob.com/teams/8564/fixtures/
 
 https://www.transfermarkt.com/ac-mailand/alletransfers/verein/5
+
+]
+
+[ Sport Livestream
+
+https://www.reddit.com/r/soccerstreams
+
+https://acelisting.in/
+
+http://live.banhkhuc.tv/
+
+https://thevang.net/
+
+https://thucdem.tv/
+
+]
 
 http://www.mappedometer.com
 
