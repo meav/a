@@ -1,3 +1,6 @@
+https://darklion0810.wordpress.com/
+darklion8@gmail.com
+
 # [ Get link
 
 https://linksvip.net/
@@ -26,15 +29,15 @@ https://www.transfermarkt.com/ac-mailand/alletransfers/verein/5
 
 [ Sport Livestream
 
-https://www.reddit.com/r/soccerstreams
-
 https://acelisting.in/
+
+https://www.reddit.com/r/soccerstreams
 
 http://live.banhkhuc.tv/
 
 https://thevang.net/
 
-https://thucdem.tv/
+http://xoac.tv/
 
 ]
 
@@ -820,7 +823,7 @@ hpduyenpham@gmail.com
 
   dulieucuatoi007@gmail.com  Free 1.55GB (tranqudat@gmail.com) (Chinh nghia xemphimone + Solomon's Perjury)
 
-  dulieucuatoi999@gmail.com (tranqudat@gmail.com)
+  dulieucuatoi999@gmail.com Free 2.73GB (tranqudat@gmail.com) (???)
   
 ]
 
@@ -852,6 +855,14 @@ Vn-sharing
 
   mrworld
 
+tve-4u.org
+
+  mrworld
+
+multcloud.com
+
+  milanistavietnam@gmail.com
+  
 Pan baidu
 
   milanistavietnam@gmail.com
@@ -863,14 +874,16 @@ App.box.com
 Mega.co.nz
 
   milanistavietnam@gmail.com
+  
+Share5s.com
+
+  meav1911
 
 Mediafire
 
   milanistavietnam@gmail.com
 
   milanistavietnam1911@gmail.com
-
-  https://www.mediafire.com/?gz5b8dz
 
 ]
 
