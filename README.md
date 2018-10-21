@@ -37,6 +37,8 @@ http://live.banhkhuc.tv/
 
 https://thevang.net/
 
+http://vatvo.tv/
+
 http://xoac.tv/
 
 ]
