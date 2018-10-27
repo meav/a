@@ -1,5 +1,3 @@
-http://www.rjno1.com/infor/diy/2822-baiduyunguanjia-portable.html
-
 # [ Get link
 
 https://linksvip.net/
@@ -460,6 +458,10 @@ https://github.com/iikira/BaiduPCS-Go
 
 ]
 
+http://www.rjno1.com/infor/diy/2822-baiduyunguanjia-portable.html
+
+https://tricksty.com/resources/baidu-pan-cloud-desktop-app-english-translation
+
 [ Mega.nz
 
 https://megatools.megous.com/
@@ -765,6 +767,10 @@ http://mydramalist.com/browse/all?sort[]=relevance&q=%s
 jav
 
 http://www.javlibrary.com/en/vl_searchbyid.php?keyword=%s
+
+javonline
+
+https://popjav.tv/?s=%s
 
 ]
 
