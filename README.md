@@ -2,6 +2,8 @@
 
 https://linksvip.net/
 
+http://taive.cf/?ref=vn-zoom.org
+
 ]
 
 # [ Text
@@ -384,6 +386,8 @@ https://sourceforge.net/projects/winpython/files/
 
 https://github.com/JimmXinu/FanFicFare
 
+https://github.com/cnbeining/onedrivecmd
+
 https://github.com/sdvcrx/pan-baidu-download
 
 https://github.com/PeterDing/aget
@@ -465,6 +469,8 @@ https://tricksty.com/resources/baidu-pan-cloud-desktop-app-english-translation
 [ Mega.nz
 
 https://megatools.megous.com/
+
+https://github.com/t3rm1n4l/megacmd
 
 ]
 
@@ -687,6 +693,10 @@ http://tieba.baidu.com/f?kw=戚薇
 https://www.facebook.com/StephyQiWeiVN/
 
 http://tieba.baidu.com/f?kw=徐洁儿
+
+https://www.youtube.com/watch?v=_h5twE4Dxjs
+
+https://signup.microsoft.com/signup?sku=Education
 
 ]
 
