@@ -1,4 +1,4 @@
-body > else > div.neo_width.page > div > table.tborder, body > else > div.neo_width.page > div > div.tborder { display: none }
+body > else > div.neo_width.page > div > table:nth-child(15) > tbody > tr > td.smallfont > table > tbody > tr > td > div > form
 
 # [ Get link
 
