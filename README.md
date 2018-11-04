@@ -1,3 +1,5 @@
+body > else > div.neo_width.page > div > table.tborder, body > else > div.neo_width.page > div > div.tborder { display: none }
+
 # [ Get link
 
 https://linksvip.net/
