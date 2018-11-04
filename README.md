@@ -1,4 +1,4 @@
-body > else > div.neo_width.page > div > table:nth-child(15) > tbody > tr > td.smallfont > table > tbody > tr > td > div > form
+body > else > div.neo_width.page > div > table.tborder > tbody > tr > td.alt2 > form > table
 
 # [ Get link
 
