@@ -1,5 +1,3 @@
-body > else > div.neo_width.page > div > table.tborder > tbody > tr > td.alt2 > form > table
-
 # [ Get link
 
 https://linksvip.net/
@@ -30,9 +28,9 @@ https://www.transfermarkt.com/ac-mailand/alletransfers/verein/5
 
 [ Sport Livestream
 
-https://acelisting.in/
-
 https://www.reddit.com/r/soccerstreams
+
+https://acelisting.in/
 
 http://live.banhkhuc.tv/
 
@@ -406,7 +404,7 @@ C:\Users\aa\Documents\WW1\mpv-i686-20160411\mpv.com
 
 ]
 
-https://potplayer.daum.net/
+https://verona.im/
 
 [ Clipboard
 
