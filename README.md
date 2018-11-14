@@ -456,12 +456,6 @@ C:\Users\aa\Desktop\axel.exe
 
 ]
 
-[ BaiduPCS-Go
-
-https://github.com/iikira/BaiduPCS-Go
-
-]
-
 http://www.rjno1.com/infor/diy/2822-baiduyunguanjia-portable.html
 
 https://tricksty.com/resources/baidu-pan-cloud-desktop-app-english-translation
@@ -892,10 +886,12 @@ Mega.co.nz
 
   milanistavietnam@gmail.com
   
-Share5s.com
-
-  meav1911
-
+  VPMswQbg6xMMXXSeM6lJYw
+  
+  milanistavietnam1911@gmail
+  
+  tAvfDppjJKYjd0xhKVXCrg
+  
 Mediafire
 
   milanistavietnam@gmail.com
