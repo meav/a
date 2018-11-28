@@ -268,11 +268,23 @@ http://unikey.org/bdownload.php
 
 ]
 
-[ Notepad
+[ Notepad++
 
 https://notepad-plus-plus.org/
 
 https://sourceforge.net/projects/npp-customize/
+
+https://sourceforge.net/projects/npp-plugins/files/MultiClipboard/
+
+Useful Tips
+
+To show the multiclipboard paste menu via (right click) context menu, add the following line to %Notepad++Directory%\contextMenu.xml
+
+<Item PluginEntryName="MultiClipboard" PluginCommandItemName="MultiClipboard Paste"/>
+
+alias text="C:\Users\a\Documents\(Empty)\npp.7.5.6.bin.minimalist\notepad++.exe" "D:\cai dat\text.bb"
+
+alias mail="C:\Users\a\Documents\(Empty)\npp.7.5.6.bin.minimalist\notepad++.exe" "D:\cai dat\text.aa" -n9999999
 
 ]
 
@@ -462,6 +474,8 @@ https://tricksty.com/resources/baidu-pan-cloud-desktop-app-english-translation
 
 [ Mega.nz
 
+https://github.com/meganz/MEGAcmd
+
 https://megatools.megous.com/
 
 https://github.com/t3rm1n4l/megacmd
@@ -579,6 +593,10 @@ bcdedit.exe /set {current} nx AlwaysOn
 http://vnhow.vn/howto/cach-them-recycle-bin-vao-my-computer-tren-windows-vista-hoac-windows-7
 
 http://www.askvg.com/fix-input-indicator-icon-comes-back-in-taskbar-notification-area-after-restarting-windows/
+
+https://jpsoft.com/forums/threads/ot-show-desktop-from-command-line.4151/post-23609
+
+CreateObject("Shell.Application").ToggleDesktop
 
 http://winaero.com/blog/how-to-create-shortcut-for-shutdown-windows-dialog/
 
@@ -775,26 +793,6 @@ http://www.javlibrary.com/en/vl_searchbyid.php?keyword=%s
 javonline
 
 https://popjav.tv/?s=%s
-
-]
-
-# [ Mail
-
-anhngoc7675@gmail.com; huyen3ntl@gmail.com; nguyendinhtb711@gmail.com; tranhaiyen.tieuhoc@gmail.com
-
-namtuliem@congdoanhanoi.org.vn
-
-c1namtuliem-ntl@hanoiedu.vn
-
-thanh67.ttb@gmail.com
-
-vukimdung2301@gmail.com
-
-truongnguyen.a@gmail.com
-
-hongttb.1974@gmail.com
-
-hpduyenpham@gmail.com
 
 ]
 
@@ -1142,60 +1140,6 @@ https://userstyles.org/styles/75410/reddit-redesigned
 
 ]
 
-[ Vozmobile
-
-@-moz-document url-prefix("https://forums.voz.vn/showthread.php?") {
-
-.alt1, .alt2 { max-width: 850px !important; font-size: 40pt !important; line-height: 1.5 !important; }
-
-IMG[alt="Reply"], #btn-migrate-to-voz {display:none !important}
-
-div.pagenav > table > tbody > tr > td:nth-child(1) > a,
-
-div.pagenav > table > tbody > tr > td:nth-child(2) > a,
-
-div.pagenav > table > tbody > tr > td:nth-child(3) > a,
-
-div.pagenav > table > tbody > tr > td:nth-child(4) > a,
-
-div.pagenav > table > tbody > tr > td:nth-child(5) > a,
-
-div.pagenav > table > tbody > tr > td:nth-child(6) > a,
-
-div.pagenav > table > tbody > tr > td:nth-child(7) > a,
-
-div.pagenav > table > tbody > tr > td:nth-child(8) > a,
-
-div.pagenav > table > tbody > tr > td:nth-child(9) > a,
-
-div.pagenav > table > tbody > tr > td:nth-child(10) > a,
-
-div.pagenav > table > tbody > tr > td:nth-child(11) > a,
-
-div.pagenav > table > tbody > tr > td:nth-child(12) > a,
-
-div.pagenav > table > tbody > tr > td:nth-child(13) > a,
-
-div.pagenav > table > tbody > tr > td:nth-child(14) > a,
-
-div.pagenav > table > tbody > tr > td:nth-child(15) > a,
-
-div.pagenav > table > tbody > tr > td:nth-child(16) > a,
-
-div.pagenav > table > tbody > tr > td:nth-child(17) > a,
-
-div.pagenav > table > tbody > tr > td:nth-child(18) > a,
-
-div.pagenav > table > tbody > tr > td:nth-child(19) > a,
-
-div.pagenav > table > tbody > tr > td:nth-child(20) > a
-
-{font-size: 40pt !important;}
-
-}
-
-]
-
 [ Facebook Desktop Mobile
 
 [ 
@@ -1463,5 +1407,25 @@ Hồ nước trên đường Tây Tựu gần ngã tư Nhổn 9.76km
 Nội thất Kim Hoàng Gia 10.12km
 
 Đại lộ Thăng Long 11.31km
+
+]
+
+# [ Mail
+
+anhngoc7675@gmail.com; huyen3ntl@gmail.com; nguyendinhtb711@gmail.com; tranhaiyen.tieuhoc@gmail.com
+
+namtuliem@congdoanhanoi.org.vn
+
+c1namtuliem-ntl@hanoiedu.vn
+
+thanh67.ttb@gmail.com
+
+vukimdung2301@gmail.com
+
+truongnguyen.a@gmail.com
+
+hongttb.1974@gmail.com
+
+hpduyenpham@gmail.com
 
 ]
