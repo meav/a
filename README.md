@@ -1,113 +1,55 @@
-# [ Get link
+http://vnoss.org/docs/?id=2
 
- https://luanxt.tk/get-link-mp3-320-lossless-vip-zing/
- 
- https://getlinkpro.net/
- 
- https://linksvip.net/
- 
- https://weibomiaopai.com/download-video-parser.php
- 
- ]
+http://i.youku.com/i/UMTE2MzM0MDg=/videos?spm=a2hzp.8244740.0.0
 
-https://otter-browser.org
+https://vozforums.com/showthread.php?t=7089909
 
-[ Firefox
+http://www.lightnovel.cn/thread-835719-1-1.html
 
- https://ftp.mozilla.org/pub/firefox/
- 
- https://www.mozilla.org/en-US/firefox/organizations/all/
- 
- about:config > browser.tabs.closeWindowWithLastTab boolean false
- 
-                extensions.firebug.hideDefaultInspector boolean true
-                
- 			   devtools.inspector.enabled boolean false
-         
- 			   browser.tabs.tabClipWidth integer 1
-         
- https://addons.mozilla.org/en-US/firefox/addon/adblock-plus/
- 
- https://addons.mozilla.org/en-US/firefox/addon/flashgot/
- 
- https://addons.mozilla.org/en-US/firefox/addon/downthemall/
- 
- https://addons.mozilla.org/en-US/firefox/addon/righttoclick/
- 
- https://addons.mozilla.org/vi/firefox/addon/clippings/
- 
- https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/
- 
- https://greasyfork.org/en/scripts/23635-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E7%9B%B4%E6%8E%A5%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B
- 
- https://greasyfork.org/vi/scripts/16204-google-translator-tooltip-expanded-fork
- 
- https://vozforums.com/showpost.php?p=60840624&postcount=104961
- 
- https://addons.mozilla.org/en-US/firefox/addon/stylish/
- 
- https://addons.mozilla.org/en-US/firefox/addon/context-search/
- 
- https://addons.mozilla.org/en-US/firefox/addon/add-to-search-bar/
- 
- https://addons.mozilla.org/en-US/firefox/addon/cookie-wizard-with-whitelist/
- 
- http://www.xuldev.org/firegestures/
- 
- https://addons.mozilla.org/en-US/firefox/addon/translate-this/
- 
- https://addons.mozilla.org/en-US/firefox/addon/dictionary-anywhere/
- 
- https://addons.mozilla.org/en-US/firefox/addon/dom-inspector-6622/
- 
- https://addons.mozilla.org/en-US/firefox/addon/element-inspector/
- 
- ]
- 
- [ Palemoon
- 
- https://www.palemoon.org/palemoon-portable.shtml
- 
- about:config > browser.tabs.closeWindowWithLastTab boolean false
- 
- about:config > browser.tabs.tabClipWidth integer 1
- 
- about:config > browser.link.open_newwindow.restriction integer 0
- 
- https://addons.palemoon.org/addon/white-moon/
- 
- http://mycroftproject.com/
- 
- https://addons.palemoon.org/incompatible/
- 
- https://forum.palemoon.org/viewtopic.php?t=15012
- 
- https://forum.palemoon.org/viewtopic.php?t=14666
- 
- https://addons.mozilla.org/en-US/firefox/addon/dom-inspector-6622/
- 
- https://addons.mozilla.org/en-US/firefox/addon/element-inspector/
- 
- http://www.xuldev.org/firegestures/
- 
- https://addons.mozilla.org/en-US/firefox/addon/flashgot/
- 
- https://addons.palemoon.org/extensions/ > Greasemonkey for Pale Moon
- 
- https://addons.mozilla.org/en-US/firefox/addon/s3menu-wizard/
- 
- https://addons.palemoon.org/addon/stylem/
- 
- https://addons.palemoon.org/addon/tgsidebar/
- 
- https://addons.palemoon.org/addon/toolbarize-menu-button/
- 
- https://addons.palemoon.org/addon/translatethis/
- 
- ]
- 
-"C:\Program Files\Internet Explorer\iexplore.exe" -private
+http://pan.baidu.com/share/link?shareid=447914139&uk=773140592&adapt=pc&fr=ftw#path=%252F
 
-https://helpx.adobe.com/flash-player/kb/archived-flash-player-versions.html
+https://pan.baidu.com/share/link?uk=291990452&shareid=80373415#list/path=%2F%E6%9D%A8%E9%92%B0%E8%8E%B9-%E3%80%8A1990%E5%B9%B4-2013%E5%B9%B4%E4%BD%9C%E5%93%81%E5%90%88%E9%9B%86%E3%80%8B%2826CD%29[FLAC]
 
- http://kmeleonbrowser.org/forum/read.php?1,114856,page=1
+http://v.pipipan.com/info/YGD11143
+
+http://android.pipipan.com/info/0Ij218174
+
+https://tenlua.vn/download/0b37e62de3086e/e-thuvien-part01
+
+https://tenlua.vn/download/0b37e62de30869/e-thuvien-part02
+
+https://tenlua.vn/download/0b37e62de30868/e-thuvien-part03
+
+https://tenlua.vn/download/0b37e62de3086b/e-thuvien-part04
+
+https://tenlua.vn/download/0b37e62de30a6a/e-thuvien-part05
+
+https://tenlua.vn/download/0b37e62de30a65/e-thuvien-part06
+
+https://tenlua.vn/download/0b37e62de30a64/e-thuvien-part07
+
+https://tenlua.vn/download/0b37e62de3096d/e-thuvien-part08
+
+https://tenlua.vn/download/0b37e62de3096c/e-thuvien-part09
+
+https://tenlua.vn/download/0b37e62de3096f/e-thuvien-part10
+
+https://tenlua.vn/download/0b37e62de3096e/e-thuvien-part11
+
+https://tenlua.vn/download/0b37e62de30969/e-thuvien-part12
+
+https://tenlua.vn/download/0b37e62de30968/e-thuvien-part13
+
+https://tenlua.vn/download/0b37e62de3096b/e-thuvien-part14
+
+https://tenlua.vn/download/0b37e62de30965/e-thuvien-part15
+
+https://tenlua.vn/download/0b37e62de3086d/e-thuvien-part16
+
+https://tenlua.vn/download/0b37e62de3086c/e-thuvien-part17
+
+https://www.tenlua.vn/download/1737e42ee60a6503/celtic-woman-emerald-musical-gems-2013-blu-ray-1080i-avc-dts-hd-5-1-iso
+
+http://www.jaist.ac.jp/~hoangle/filesj/
+
+http://findfb.net/Search-Post.aspx
