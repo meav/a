@@ -56,13 +56,11 @@ http://www.fakenamegenerator.com/
 
 https://login.teamviewer.com/connect/Flash
 
-http://vnoss.org/docs/?id=2
-
 http://sachxua.net/forum/index.php?topic=16946.0
 
 http://thuvienphapluat.vn/
 
-http://www.giaiphapexcel.com/forum/forum.php
+https://www.giaiphapexcel.com/diendan/forums/
 
 [ Phim
 
@@ -86,33 +84,15 @@ http://www.jpopflac.com/
 
 http://digitalk7.com/
 
-http://i.youku.com/i/UMTE2MzM0MDg=/videos?spm=a2hzp.8244740.0.0
-
-https://vozforums.com/showthread.php?t=7089909
-
 https://ketnoidamme.vn/threads/tong-hop-nhung-ca-khuc-nhac-hoa-hay-nhat.1460/
 
 https://tieba.baidu.com/p/4100164746
 
 Pass: oricon
 
-http://www.lightnovel.cn/thread-835719-1-1.html
-
 http://tieba.baidu.com/p/4157572241
 
-http://pan.baidu.com/share/link?shareid=447914139&uk=773140592&adapt=pc&fr=ftw#path=%252F
-
 http://www.162wp.com/yinle/2014-12-23/7915.html
-
-[ 杨钰莹
-
-https://pan.baidu.com/share/link?uk=291990452&shareid=80373415#list/path=%2F%E6%9D%A8%E9%92%B0%E8%8E%B9-%E3%80%8A1990%E5%B9%B4-2013%E5%B9%B4%E4%BD%9C%E5%93%81%E5%90%88%E9%9B%86%E3%80%8B%2826CD%29[FLAC]
-
-http://v.pipipan.com/info/YGD11143
-
-http://android.pipipan.com/info/0Ij218174
-
-]
 
 ]
 
@@ -125,44 +105,6 @@ https://www.facebook.com/hashtag/ebolicebook
 https://www.facebook.com/hashtag/ebolicelite
 
 https://www.wattpad.com/user/gabriel931000
-
-[ e-thuvien
-
-https://tenlua.vn/download/0b37e62de3086e/e-thuvien-part01
-
-https://tenlua.vn/download/0b37e62de30869/e-thuvien-part02
-
-https://tenlua.vn/download/0b37e62de30868/e-thuvien-part03
-
-https://tenlua.vn/download/0b37e62de3086b/e-thuvien-part04
-
-https://tenlua.vn/download/0b37e62de30a6a/e-thuvien-part05
-
-https://tenlua.vn/download/0b37e62de30a65/e-thuvien-part06
-
-https://tenlua.vn/download/0b37e62de30a64/e-thuvien-part07
-
-https://tenlua.vn/download/0b37e62de3096d/e-thuvien-part08
-
-https://tenlua.vn/download/0b37e62de3096c/e-thuvien-part09
-
-https://tenlua.vn/download/0b37e62de3096f/e-thuvien-part10
-
-https://tenlua.vn/download/0b37e62de3096e/e-thuvien-part11
-
-https://tenlua.vn/download/0b37e62de30969/e-thuvien-part12
-
-https://tenlua.vn/download/0b37e62de30968/e-thuvien-part13
-
-https://tenlua.vn/download/0b37e62de3096b/e-thuvien-part14
-
-https://tenlua.vn/download/0b37e62de30965/e-thuvien-part15
-
-https://tenlua.vn/download/0b37e62de3086d/e-thuvien-part16
-
-https://tenlua.vn/download/0b37e62de3086c/e-thuvien-part17
-
-]
 
 [ tve-4u
 
@@ -191,8 +133,6 @@ http://tieba.baidu.com/p/4853103946
 https://www.fshare.vn/file/T60H1HW3BT
 
 https://www.fshare.vn/file/3J88719XM4EEJ73
-
-https://www.tenlua.vn/download/1737e42ee60a6503/celtic-woman-emerald-musical-gems-2013-blu-ray-1080i-avc-dts-hd-5-1-iso
 
 ]
 
@@ -260,7 +200,7 @@ https://geekuninstaller.com/download
 
 [ Bộ gõ Tiếng Việt
 
-https://vozforums.com/showthread.php?t=6882941
+https://forums.voz.vn/showthread.php?t=6882941
 
 https://drive.google.com/drive/folders/12DbnnsOs89D79loTZ_rTuU696qZZPB1_
 
@@ -382,15 +322,13 @@ http://www.ghostscript.com/download/
 
 http://www.lingoes.net/en/translator/download.htm
 
-http://www.jaist.ac.jp/~hoangle/filesj/
-
 https://www.stardock.com/products/groupy/
 
 http://ejie.me/
 
 https://github.com/ONLYOFFICE/DesktopEditors
 
-http://www.extendoffice.com/download/office-tab-free-edition.html
+https://www.extendoffice.com/
 
 http://www.java.com/en/download/manual.jsp
 
@@ -666,8 +604,6 @@ http://browserfame.com/723/spoof-user-agent-string-opera-12-wahoo
 
 http://spys.one/free-proxy-list/CN/
 
-http://findfb.net/Search-Post.aspx
-
 https://popjav.com/category/censored
 
 https://nudegirls4u.com/
@@ -832,7 +768,7 @@ https://popjav.tv/?s=%s
 
   dulieucuatoi007@gmail.com  Free 1.55GB (tranqudat@gmail.com) (Chinh nghia xemphimone + Solomon's Perjury)
 
-  dulieucuatoi999@gmail.com Free 2.73GB (tranqudat@gmail.com) (???)
+  dulieucuatoi999@gmail.com Free 2.73GB (tranqudat@gmail.com) (Celtic.Woman.Emerald.Musical.Gems.2014.BluRay.1080p.DTS.x264-CHD.mkv + Taipei Exchanges (2010))
   
 ]
 
@@ -1425,6 +1361,8 @@ vukimdung2301@gmail.com
 truongnguyen.a@gmail.com
 
 hongttb.1974@gmail.com
+
+vuonghuyen82@gmail.com
 
 hpduyenpham@gmail.com
 
