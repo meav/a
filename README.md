@@ -32,7 +32,7 @@ https://www.reddit.com/r/soccerstreams
 
 https://acelisting.in/
 
-http://live.banhkhuc.tv/
+https://live.90phut.tv/
 
 https://thevang.net/
 
