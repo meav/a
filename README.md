@@ -1,3 +1,5 @@
+--no-check-certificate
+
 # [ Get link
 
 https://linksvip.net/
