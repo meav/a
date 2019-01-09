@@ -1,3 +1,7 @@
+HD: "http://onetv/udp/225.1.1.89:30120" "http://42.113.248.8:8889/udp/225.1.1.89:30120"
+
+SD: "http://ms3.vietcago.net:4022/udp/232.84.1.44:8244"
+
 # [ Get link
 
 https://linksvip.net/
