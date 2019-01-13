@@ -1,7 +1,3 @@
-HD: "http://42.118.104.23:4022/udp/225.1.1.89:30120"
-
-SD: "http://123.19.50.170:2204/udp/232.84.1.44:8244"
-
 # [ Get link
 
 https://linksvip.net/
@@ -385,6 +381,14 @@ echo referer=[REFERER]
 echo cookie=[COOKIE]
 
 ) >> C:\Users\aa\Desktop\1.txt
+
+]
+
+[ Wget
+
+https://www.gnu.org/software/wget/faq.html#download
+
+wget --continue --progress=bar:force:noscroll
 
 ]
 
