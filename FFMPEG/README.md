@@ -1,7 +1,9 @@
 ffmpeg -i INPUT -f ffmetadata FFMETADATAFILE
 
-ffmpeg -i INPUT -i FFMETADATAFILE -map_metadata 1 -codec copy OUTPUT
+ffmpeg -i input.ext -i FFMETADATAFILE -map_metadata 1 -map 0 -c copy output.mkv
 
-ffmpeg -i input.ext -i 1.vtt -map 0 -c copy -map 1:0 -metadata:s:s:0 language=en output.mkv
+ffmpeg -i input.ext -map 0:s:0 subs.srt
 
-ffmpeg -i input.mp4 -i 1.vtt -map 0 -c copy -map 1:0 -c:s mov_text -metadata:s:s:0 language=en output.mp4
+ffmpeg -i input.ext -map 0 -map -0:s -codec copy output.mkv
+
+ffmpeg -i input.ext -i inputsub1.ext -i inputsub2.ext -map 0 -map 1 -map 2 -c copy -metadata:s:s:0 language=sub1 -metadata:s:s:1 language=sub2 output.mkv
