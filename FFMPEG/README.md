@@ -2,7 +2,7 @@ ffmpeg -i input.ext -map 0 -c copy -ss 00:00:00 -t 00:30:00 output.ext
 
 ffmpeg -i input.ext -f ffmetadata FFMETADATAFILE
 
-ffmpeg -i input.ext -map 0 -c copy -i FFMETADATAFILE -map_metadata 1 output.ext
+ffmpeg -i input.ext -i FFMETADATAFILE -map 0 -c copy -map_metadata 1 output.ext
 
 ffmpeg -i input.ext -map 0:s:0 subs.ext
 
