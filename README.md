@@ -30,6 +30,10 @@ https://www.transfermarkt.com/ac-mailand/alletransfers/verein/5
 
 https://www.reddit.com/r/soccerstreams
 
+https://www.reddit.com/r/soccerstreams_other
+
+https://www.reddit.com/r/soccerstreams_pl/
+
 https://acelisting.in/
 
 https://live.90phut.tv/
@@ -37,8 +41,6 @@ https://live.90phut.tv/
 https://thevang.net/
 
 http://vatvo.tv/
-
-http://xoac.tv/
 
 ]
 
@@ -174,7 +176,7 @@ https://github.com/Maximus5/ConEmu
 
 https://github.com/Maximus5/ConEmu/issues/1120
 
-Tweaking the CmdInit.cmd file: remove this set ConEmuPrompt0=$E[m$E[32m$E]9;8;"USERNAME"$E\@$E]9;8;"COMPUTERNAME"$E\$S
+Tweaking the CmdInit.cmd file: Remove this set ConEmuPrompt0=$E[m$E[32m$E]9;8;"USERNAME"$E\@$E]9;8;"COMPUTERNAME"$E\$S
 
 https://github.com/joonro/ConEmu-Color-Themes/blob/master/themes/monokai.xml
 
@@ -764,7 +766,7 @@ https://popjav.tv/?s=%s
   
   https://drive.google.com/drive/folders/0BwUMap4uHX13QldmTE1ZX0JmYms?usp=sharing
 
-  dulieucuatoi002@gmail.com  Free 1.7GB (tranqudat@gmail.com) (DVD Believe + DVD Songs from the Heart + Audio Celtic Woman)
+  dulieucuatoi002@gmail.com  Free 1.3GB (tranqudat@gmail.com) (DVD Believe + DVD Songs from the Heart + Audio Celtic Woman)
 
   dulieucuatoi003@gmail.com  Free 2.39GB (tranqudat@gmail.com) (Phan mem)
 
@@ -944,7 +946,9 @@ start "" "C:\Program Files\unikey40RC2-1101-win32\UniKeyNT.exe"
 
 ]
 
-# [ Macro Insert Blank Page Word
+# [ Macro
+
+[ Macro Insert Blank Page Word
 
 Sub Macro2()
 
@@ -1010,7 +1014,25 @@ m = MsgBox("XONG", vbOK, "MA LEM KHOANG")
 
 '(1) Luon xuat phat tu trang dau de truot xuong i + j trang
 
-End Sub 
+End Sub
+
+]
+
+[ Macro RemoveShadingandHighlights
+
+Sub RemoveShadingandHighlights()
+
+  Selection.Font.Shading.Texture = wdTextureNone
+  
+  Selection.Shading.BackgroundPatternColor = wdColorWhite
+  
+  Selection.Shading.ForegroundPatternColor = wdColorWhite
+  
+  Selection.Range.HighlightColorIndex = wdNoHighlight
+  
+End Sub
+
+]
 
 ]
 
