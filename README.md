@@ -28,11 +28,9 @@ https://www.transfermarkt.com/ac-mailand/alletransfers/verein/5
 
 [ Sport Livestream
 
-https://www.reddit.com/r/soccerstreams
+https://www.footybite.com
 
-https://www.reddit.com/r/soccerstreams_other
-
-https://www.reddit.com/r/soccerstreams_pl/
+https://www.reddit.com/r/soccerstreams69/
 
 https://acelisting.in/
 
@@ -41,6 +39,8 @@ https://live.90phut.tv/
 https://thevang.net/
 
 http://vatvo.tv/
+
+https://demkhuya.tv/
 
 ]
 
