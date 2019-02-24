@@ -1,7 +1,3 @@
-HD: "http://183.80.213.38:8889/udp/225.1.2.232:30120"
-
-SD: "http://14.185.132.161:5555/udp/232.84.1.19:8088"
-
 # [ Get link
 
 https://linksvip.net/
@@ -22,7 +18,11 @@ https://github.com/meav/text
 
 [ Milan
 
+https://www.fullmatchesandshows.com/
+
 http://www.replaymatches.com/
+
+https://www.google.com/search?q=ac+milan#sie=t;/m/011v3;2;/m/03zv9;mt;fp;1;;
 
 https://www.fotmob.com/teams/8564/fixtures/
 
@@ -147,6 +147,8 @@ https://www.fshare.vn/file/3J88719XM4EEJ73
 # [ Software
 
 https://docs.google.com/spreadsheets/d/1o5dmOw8jBCVGxFmlMOsKgoIKULMY7tk-TCSz67IJMc4/pubhtml#
+
+https://cloud.mail.ru/public/Mv44/8Srx3zLUZ/Windows%2010%20IoT%20Core%2C%20Version%201809%20-%20MSDN/
 
 [ Task Scheduler
 
@@ -494,11 +496,7 @@ http://www.xiles.net/nexusfont
 
 http://www.donationcoder.com/software/mouser/popular-apps/minicap
 
-http://www.faststone.org/FSCaptureDetail.htm
-
-http://www.hyperionics.com/
-
-http://ohsoft.net/eng/ocam/intro.php?cate=1002
+http://www.donationcoder.com/software/mouser/popular-apps/easy-screencast-recorder
 
 https://github.com/MathewSachin/Captura
 
@@ -628,9 +626,7 @@ https://yaers.com/
 
 https://www.facebook.com/ACMilanVN/
 
-https://www.facebook.com/ludoandoden/
-
-https://www.facebook.com/StarWarsVietNam/
+https://www.facebook.com/Forza-Milan-Milan-2361070724179944/
 
 https://www.facebook.com/starwarsvnfanpage/
 
@@ -881,6 +877,8 @@ http://hboasia.com/HBO/en-vn/shows/star-wars-episode-i-the-phantom-menace-102296
 http://hboasia.com/HBO/en-vn/shows/star-wars-episode-ii-attack-of-the-clones-1022961/
 
 http://hboasia.com/HBO/en-vn/shows/star-wars-episode-iii-revenge-of-the-sith-1022962/
+
+http://hboasia.com/HBO/en-vn/shows/star-wars-episode-vii-the-force-awakens-1023534/
 
 ]
 
