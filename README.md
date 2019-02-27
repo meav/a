@@ -1,3 +1,7 @@
+HD: "http://58.186.23.19:8889/udp/225.1.2.232:30120"
+
+SD: "http://ms3.vietcago.net:4022/rtp/232.84.1.19:8088"
+
 # [ Get link
 
 https://linksvip.net/
