@@ -1,7 +1,3 @@
-HD: "http://42.118.204.80:8889/udp/225.1.2.232:30120"
-
-SD: "http://ms3.vietcago.net:4022/rtp/232.84.1.19:8088"
-
 # [ Get link
 
 https://linksvip.net/
@@ -38,17 +34,9 @@ https://www.transfermarkt.com/ac-mailand/alletransfers/verein/5
 
 https://www.footybite.com
 
-https://www.reddit.com/r/soccerstreams69/
-
 https://acelisting.in/
 
-https://live.90phut.tv/
-
-https://thevang.net/
-
-http://vatvo.tv/
-
-https://demkhuya.tv/
+gg.gg/8zy29
 
 ]
 
@@ -186,7 +174,13 @@ https://github.com/Maximus5/ConEmu
 
 https://github.com/Maximus5/ConEmu/issues/1120
 
-Tweaking the CmdInit.cmd file: Remove this set ConEmuPrompt0=$E[m$E[32m$E]9;8;"USERNAME"$E\@$E]9;8;"COMPUTERNAME"$E\$S
+[ Tweaking the CmdInit.cmd file:
+
+Remove this: set ConEmuPrompt0=$E[m$E[32m$E]9;8;"USERNAME"$E\@$E]9;8;"COMPUTERNAME"$E\$S
+
+Edit last line to: PROMPT $E[23B$E[23A%ConEmuPrompt1%%ConEmuPrompt2%%ConEmuPrompt3%
+
+]]]
 
 https://github.com/joonro/ConEmu-Color-Themes/blob/master/themes/monokai.xml
 
@@ -357,8 +351,6 @@ https://github.com/PeterDing/aget
 [ mpv
 
 https://mpv.srsfckn.biz/
-
-https://www.dropbox.com/s/4ao0zxhej2dmak9
 
 C:\Users\aa\Documents\WW1\mpv-i686-20160411\mpv.com
 
@@ -631,6 +623,8 @@ https://yaers.com/
 https://www.facebook.com/ACMilanVN/
 
 https://www.facebook.com/Forza-Milan-Milan-2361070724179944/
+
+https://www.facebook.com/StarWarsVietNam/
 
 https://www.facebook.com/starwarsvnfanpage/
 
