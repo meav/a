@@ -36,6 +36,10 @@ https://www.footybite.com
 
 https://acelisting.in/
 
+http://navdunk.com/
+
+http://navixsport.com/
+
 gg.gg/8zy29
 
 ]
@@ -210,7 +214,7 @@ https://forums.voz.vn/showthread.php?t=6882941
 
 https://drive.google.com/drive/folders/12DbnnsOs89D79loTZ_rTuU696qZZPB1_
 
-http://unikey.org/bdownload.php
+https://www.unikey.org/download.html
 
 ]
 
@@ -227,10 +231,6 @@ Useful Tips
 To show the multiclipboard paste menu via (right click) context menu, add the following line to %Notepad++Directory%\contextMenu.xml
 
 <Item PluginEntryName="MultiClipboard" PluginCommandItemName="MultiClipboard Paste"/>
-
-alias text="C:\Users\a\Documents\(Empty)\npp.7.5.6.bin.minimalist\notepad++.exe" "D:\cai dat\text.bb"
-
-alias mail="C:\Users\a\Documents\(Empty)\npp.7.5.6.bin.minimalist\notepad++.exe" "D:\cai dat\text.aa" -n9999999
 
 ]
 
@@ -612,7 +612,11 @@ http://browserfame.com/723/spoof-user-agent-string-opera-12-wahoo
 
 http://spys.one/free-proxy-list/CN/
 
+https://www.textfixer.com/html/convert-url-to-html-link.php
+
 https://popjav.com/category/censored
+
+https://javfor.me
 
 https://nudegirls4u.com/
 
