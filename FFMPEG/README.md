@@ -10,6 +10,8 @@ ffmpeg -i input.ext -map 0 -c copy -map -0:s output.ext
 
 ffmpeg -i input.ext -i inputsub1.ext -i inputsub2.ext -map 0 -map 1 -map 2 -c copy -metadata:s:s:0 language=sub1 -metadata:s:s:1 language=sub2 output.ext
 
+for /L %i in (1,1,3) do echo %i
+
 (for %i in (*.mp4) do @echo file '%i') > mylist.txt
 
 ffmpeg -f concat -safe 0 -i mylist.txt -c copy output.mp4
