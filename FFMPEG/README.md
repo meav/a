@@ -17,3 +17,5 @@ for /L %i in (1,1,3) do echo %i
 (for %i in (*.mp4) do @echo file '%i') > mylist.txt
 
 ffmpeg -f concat -safe 0 -i mylist.txt -c copy output.mp4
+
+ffmpeg -i input.ts -c copy -bsf:a aac_adtstoasc output.mp4
