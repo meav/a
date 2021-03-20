@@ -1,5 +1,7 @@
 usage: ffmpeg [options] [[infile options] -i infile]... {[outfile options] outfile}
 
+ffmpeg -i video.ext -i audio.ext -c copy -map "0:v:0" -map "1:a:0" output.ext
+
 ffmpeg -i input.ext -map 0 -c copy -ss 00:00:00 -to 00:30:00 output.ext
 
 ffmpeg -i input.ext -f ffmetadata FFMETADATAFILE
